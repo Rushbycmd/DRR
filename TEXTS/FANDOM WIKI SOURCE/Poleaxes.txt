@@ -1,0 +1,10 @@
+Poleaxes
+EDIT
+There are are two types of poleaxes.
+
+Types of Poleaxes
+Glaives
+Glaives are similar to the storm spears, which can attack rapidly when holding the button. When attacking normally, the glaive attacks like a spear, except that it deals a small AOE damage on every 6th consecutive strike, leaving a small crater.
+
+Long axes
+Long axes attack similarly to glaives. However, they have different charges. When charged, a long axe will dash forward and smash the poleaxe to the ground, dealing massive damage to anyone within a certain radius.

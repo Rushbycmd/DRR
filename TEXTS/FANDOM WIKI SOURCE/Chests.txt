@@ -1,0 +1,18 @@
+Your adventure began with a Chest and will continue to be influenced by them during the entirety of your dungeon experience. So far, you can be rewarded by getting these from a Chest:
+
+Weapons
+Premium Weapons
+Health Bombs
+Double Experience Potions
+Keys
+Gems
+
+Each type of chest requires the same type of key.
+
+Chest Name	Chest	Description	Key
+Common Chest	DR-CommonChest2	A common palace chest, containing common loot! Includes an common key.	DR-CommonKey
+Uncommon Chest	DR-UncommonChest	An uncommon palace chest, containing even better loot! Includes an uncommon key.	DR-UncommonKey
+Rare Chest	DR RARE TR	A rare palace chest, containing powerful loot! Includes a rare key to open it.	DR RARE KEY SM
+Legendary Chest	DR LEGEND CHEST SM	A legendary palace chest, containing the best of the best loot! Includes a legendary key to open it.	DR LEGEND KEY SM
+Small Item Box	Small Item Box.	A small item box, containing awesome Power-Ups!	N/A
+Royal Item Box	Royal Item Box.	A royal item box, containing even more awesome Power-Ups!	N/A

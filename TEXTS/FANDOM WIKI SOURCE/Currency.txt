@@ -1,0 +1,31 @@
+There are two types of in-game currencies - Coins and Gems. These currencies can be used to recruit new characters or purchase items in the shop. There are a few differences between coins and gems, the basic being coins are free and gems cost real world money. The player can also buy coin packs with gems (and not the other way round).
+Gems
+Gem 500% Players have the opportunity to find various amounts of Gems within chests when opened. These Gems are generally used for purchasing pets in the game. You can also win 25 Gems by opening Common Chests.
+
+
+
+Coins
+Gold 500% Players can collect Coins through various means, including dungeon grinding, breaking destructible items, selling unwanted items, or defeating enemies and mini-bosses.
+
+
+Valuables
+Coins
+DR SINGLE COIN  You can find this by destroying obstacles, killing enemies or bosses or by opening chests after killing bosses and completing floors in Ultimate Rampage. It's very easy to find.
+
+
+5 Coins
+DR 5 COINS  You can find this by destroying obstacles, killing enemies or bosses and opening chests after killing bosses. It's easy to find.
+
+
+Coin Bag
+DR COINBAG You can find this by destroying big obstacles, killing mini-bosses/bosses and opening chests after killing bosses. It's not hard to find.
+
+
+Gold Bar
+DR BAR  You can find it by defeating bosses, discovering secret zones, and occasionally in boss rooms. It's a bit hard find.
+
+
+Triple Gold Bar
+DR TRIPLEBARS  You can find this in secret zones, secret rooms and secret areas.
+
+

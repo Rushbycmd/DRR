@@ -1,0 +1,59 @@
+Pyromancer
+19
+EDIT
+Pyromancer
+px
+The Pyromancer is a madman with incredibly powerful fire magic. When his demon form appears, fiery destruction is soon to follow. Just don't get on his bad side
+Attack
+
+★★★★★
+
+Defense
+
+★
+
+Speed
+
+★★
+
+Type
+
+Melee/Ranged Damage
+
+Cost
+
+480000 Coins or 150 Gems ($7 USD)
+
+
+Contents
+1	Introduction
+2	Combat:
+3	Training:
+4	Gallery
+Introduction
+No fire? Just call me Pyromancer. I'm immune in any flame traps. I made my weapons as my masterpiece. With my magical Fire Gloves, the enemy's head hit in my meteor. I will change enemies into coal with my Flame Staves. I make every wall on fire on my way with my Fire Runes. A piece of cake with my Flame Vortex. No one kill me now. If you want meteor showers while killing enemies? No problem. I will face the enemies with my Fire Orbs and make enemies on fire.
+
+Combat:
+The Pyromancer fighting style can be compared to a bomb, one big boom and everything's dead... including himself.
+
+At first glance, the Pyromancer seems like a very unattractive class for players to pick up, as his in-game stats indicates weak defense and high offensive power. Compared to the Sorcerer whose stats are same, he also has weak defense, normal speed and high in attack but he is poor in health. However, this is not true as among all classes, the Pyromancer, is arguably; the class that suffers the most drawbacks during the early game phases. With proper dedication, patience, training and good equipments from players, the Pyromancer will progress into a late game wood flamethrower, who deals a large amount of damage especially when equipped with a powerful staff, the stats is on the lead of Ranger.
+
+His high health and mana, fast regenerating and poor in health regeneration inside the intense combat makes him suitable for being in the front line during fights but he is also sometimes unsuitable in the front line if the enemies are melee. Due to his fragility, he should stay ideally behind defensive heroes like Berserkers and Battle Chefs at all times as a backup damage dealer. The Pyromancer can use four main weapons: Gloves, Staves, Rune and Orbs. Players should use Gloves and Staves as these weapons target one direction like Bows but it gives flames to the enemies.You can also use Rune and Orbs for the melee enemies near the Pyromancer. Fire Gloves have two varieties: Giant Fire Blob Gloves and Spread Shot Gloves. Giant Fire Blob Gloves' charging attack creates a piercing powerful plasmaball, allowing Pyromancers to take advantage to kill many enemies in a direction when you have high damage and modifiers.Spread Shot Gloves' charging attack creates a spreading fire blasts that attack in different directions.
+
+The Pyromancer's Dungeon Buster creates a flame charge like the Rune and Orbs. After he performs a flame charge, he will conjure meteors onto the enemies' heads. However, its wide spread of projectile makes it easily to effectively focus fire on a all-around target.You must use the Dungeon Buster when the enemies are near you.
+
+Training:
+Stats
+
+Burning damage: increase fire damage overtime.
+
+Fire Burst Damage: increase fire burst damage (base attack).
+
+Mana upgrade: increase mana and mana regeneration.
+
+Max health: increase your maximum health.
+
+Burning damage: 75/75 (MAXED)
+Fire burst damage: 0/75
+Max regain: 50/75 
+Max health: 75/75 (MAXED)

@@ -1,0 +1,146 @@
+Melee
+Baby Yeti
+DE BABY YETI
+Baby Yeti
+
+Papa Yeti's Babies. Small, but terrible.
+
+weak	normal	resist
+all	none	none
+Suicide Baby Yeti
+DR BABY YETI BOOM
+Suicide Baby Yeti
+
+This little mutated bugger runs to you at his top speed and explodes! Speed
+
+weak	normal	resist
+all	n/a	n/a
+
+Skeleton Swordsman
+DR SKELE SWORD
+Skeleton Swordsman
+
+Fragile as he is, a smash or 2 will turn him back into a pile of bones.
+
+weak	normal	resist
+melee	range	magic
+
+Yeti
+DR KNOCKTROLL
+Yeti
+
+He is slow, but often appears in large groups. Knockback
+
+weak	normal	resist
+magic	melee	range
+
+Ice Troll
+DR ICETROLL
+Ice Troll
+
+Slow, but powerful. He enjoys drilling players around on his drill the most.
+
+weak	normal	resist
+range	melee	magic
+
+Ranged
+Blue Icebat
+DR ICEBAT L
+Blue Icebat
+
+An agile icebat wich appears sometimes in enormous groups!
+
+weak	normal	resist
+range	magic	melee
+Teal Icebat
+DR ICEBAT DR
+Teal Icebat
+
+A more dangerous variant of his brother. Appears in smaller groups.
+
+weak	normal	resist
+range	magic	melee
+
+Green Icebat
+DR ICEBAT GREEN
+Green Icebat
+
+A leader type of icebat, it spawns regularly 2 light colored bats. However, these are not real and die after a short period of time or if killed by a player.
+
+weak	normal	resist
+range	magic	melee
+
+Purple Icebat
+DR ICEBAT PURPLE
+Purple Icebat
+
+This icebat is just as big as his cousin the Green Icebat. He teleports any player in his range at point blank and then unleashes a series of deadly ice balls.
+
+weak	normal	resist
+range	magic	melee
+
+Bosses
+Ice Dragon
+DR ICEDRAGON
+Ice Dragon
+
+His icy breath freezes you. His tail smashes you against walls. Icicles piercing you in half. This dragon is one to be recognized. This dragon mean serious business when you realize that it carries 100 tons of abbs.
+
+weak	normal	resist
+n/a	n/a	all
+Papa Yeti
+DR PAPA YETI
+Papa Yeti
+
+A strong a giant yeti that can summon his yeti babies in packs.
+
+weak	normal	resist
+magic	n/a	melee/range
+The game said that Papa Yeti is afraid of bunnies.
+
+
+Special
+Black Viking
+DR VIKING BLACK
+Black Viking
+
+You won't get this madman fast off you!
+
+weak	normal	resist
+melee	range	magic
+
+Purple Troll
+DR TROLL BIG PURPLE
+Purple Troll
+
+A giant troll with a stone club that poisons you with his farts.
+
+weak	normal	resist
+n/a	all	n/a
+
+Large Boar
+DR BOAR BIG
+Large Boar
+
+You better not step between this boar and his furious charge.
+
+weak	normal	resist
+range	magic	melee
+
+Icetiger
+DR ICETIGER
+Icetiger
+
+A tiger that grew up in the coldest areas of the map.
+
+weak	normal	resist
+range	magic	melee
+
+Green Icetiger
+DR ICETIGER BIG
+Green Icetiger
+
+A giant tiger that inspires his allies by going berserk.
+
+weak	normal	resist
+n/a	magic	melee/range

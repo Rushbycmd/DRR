@@ -1,0 +1,92 @@
+Pets
+21
+EDIT
+Each of your Heroes can equip a pet to rampage through the dungeons with them. Pets will follow you through the dungeon and attack any nearby enemies!
+
+
+Contents
+1	Current Pets in Shop
+2	Red Dragon
+3	War Rhino
+4	Night Wolf
+5	Vorpal Bunny
+6	Extra Pet Information
+Current Pets in Shop
+Red Dragon
+War Rhino
+Night Wolf
+Vorpal Bunny
+DR-RedDragon-0
+Red Dragon
+
+Red Dragon
+The image on the right is the Red Dragon.
+
+"Tough, ranged pet. Shoots blasts of flames at enemies."
+
+The Dragon can be bought for 75 Gems and can be sold for 3000 Coins.
+
+Power: ★★
+
+Defense: ★★★★★
+
+Speed: ★★★★★
+
+DR-WarRhino-0
+War Rhino
+
+War Rhino
+The image on the right is the War Rhino.
+
+"Melee tanker pet. Strong knockback and can ram through groups of enemies."
+
+The Rhino can be bought for 60 Gems and can be sold for 2400 Coins.
+
+Power: ★★★
+
+Defense: ★★★★★
+
+Speed: ★
+
+DR-NightWolf-0
+Night Wolf
+
+Night Wolf
+The image on the right is the Night Wolf.
+
+"Fierce and loyal melee pet. Collects any Star Items that it walks over."
+
+The Wolf can be bought for 68 Gems and can be sold for 1800 Coins.
+
+Power: ★★★
+
+Defense: ★★
+
+Speed: ★★★★
+
+DR VORPBUN 1-0
+Vorpal Bunny
+
+Vorpal Bunny
+The image on the right is the Vorpal Bunny.
+
+"Normally calm but extremely dangerous when cornered."
+
+The Bunny can be bought for 100 Gems.
+
+Power: ★★★★★
+
+Defense: ★★★★★
+
+Speed: ★
+
+Extra Pet Information
+The Limited Edition pet is called the Shadow Wolf, which is a variant of the Night Wolf.
+
+There are Rare Limited Edition Pets called the Dark Dragon and the Venom Dragon, which are the variants of the Red Dragon.
+
+All pets health are limited, as a result, they can be killed in dungeons by enemies or traps, but they will reappear after 60 seconds. Pets are a one-time purchase and all of your Heroes can travel with any of your pets.
+
+Pets can only be on one Hero at a time. So if you wish to switch the pet to another Hero you can do so in the Storage area.
+
+If you attempt to buy a pet that you already have, the game will have a pop-up warning notifying you that you are about to purchase a pet you already have.

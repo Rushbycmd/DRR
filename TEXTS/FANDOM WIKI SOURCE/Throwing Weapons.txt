@@ -1,0 +1,40 @@
+Throwing Weapons
+EDIT
+Light throwing weapons use a small amount of mana to cast. They are versatile weapons that many enemies are weak to, making them excellent for support.
+
+
+Contents
+1	Weapon Types
+1.1	Shuriken
+1.2	Throwing Knives
+2	Legendary Weapons
+Weapon Types
+Light throwing weapons come in a few varieties.
+
+Shuriken
+No delay to throw.  Charge-up fires out three waves of shurikens that also do increased damage.  The charge-up hit can be interrupted by melee damage.
+
+Iron Shuriken
+Juggler Shuriken
+Rogue Shuriken
+Shadow Shuriken
+Steel Shuriken
+Thieves Shuriken
+Demon Shuriken
+Throwing Knives
+Throwing Knives have a slight delay to their throws and cannot be spammed like Shurikens can. The Charging Attack claims to be Piercing, but in reality is just a super powerful hit.  
+
+Brace of Knives
+Juggler's Knives
+Thieves Knives
+Iron Knives
+Rogue Knives
+Shadow Knives
+Steel Knives
+Demon Knives
+Legendary Weapons
+There's 2 Legendary Light Throwing Weapons. Each of them has a name.
+
+#	Name	Type
+1	Iron Rain	Knives
+2	Death Stars	Shuriken

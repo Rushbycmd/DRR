@@ -1,0 +1,31 @@
+Fire Gloves
+2
+EDIT
+Pyromancer's Fire Blaster. We have discovered 2 Gloves.
+
+
+Contents
+1	Gloves Types
+1.1	Giant Fire Blob Glove
+1.2	Spread Shot Glove
+2	Tap and Charge
+3	Legendary Weapons
+Gloves Types
+Giant Fire Blob Glove
+This glove will give enemies fire blasts. The charge attack will kill enemies in one direction. You don't need to add a modifier "Piercing". Just use the Charge Attack.
+
+Spread Shot Glove
+This glove also give enemies fire blasts. The charge attack will kill enemies in any 3 direction. 0-90 and 180 degrees-shot. Sometimes, the fire blasts will target enemies in any direction.
+
+Tap and Charge
+This is information about Tap and Charge on Gloves.
+
+#	Tap	Charge	Type
+1	Tap to shoot a fire blast, consumes no mana. 	Charge and release to shoot a giant supercritical plasma ball that will pierce through an enemy.	Giant Fire Blob Glove
+2	Tap to shoot a fire blast, consumes no mana. 	Charge and release to shoot spread of fire blasts.	Spread Shot Glove
+Legendary Weapons
+This is the list of Legendary Gloves. Each of them has a name.
+
+#	Name	Type
+1	Drake Glove	Giant Fire Blob Glove
+2	Dragon Glove	Spread Shot Glove

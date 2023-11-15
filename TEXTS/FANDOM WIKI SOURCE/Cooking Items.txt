@@ -1,0 +1,40 @@
+Cooking items are among the game's most unique weapons, offering a wide range of new playstyles, including healing, buffs, and debuffs.
+Pot Types
+Buff Cooking Pots
+The graphic for these appears as a yellow pot with an up arrow on the front. They can generate different 1-time buffs on the ground that any party member can pick up and make use of.
+
+Buffs
+Buffs are selected at random, similar to loot drops. Here are the chances of acquiring them:
+
+Berserk: Red stew, puts you in berserk similar to when a friendly Berserker uses his Buster on the team.
+Speed Up: Green stew, greatly increases movement speed similar to a speed scroll.
+Defense Up: Brown stew, signified by a shield icon above the player's head when active.
+Names
+Power-up Stew Maker Pot
+Poison Cooking Pots
+The graphic for these appears as a green pot with a skull on the front. When you use them, you will see a poisoned chicken/turkey. The poisoned chicken/turkey will disappear after the Poison Cooking Pot is ready.
+
+Poison Chef Pot
+Poison Curry Pot
+Poison Stew Maker Pot
+Grog the Poison
+Food Cooking Pots
+The graphic for these appears as red pot with a plus sign (+) on the front. You and your team mates will eat all the foods when the foods are spawn.
+
+Stew Maker Pot
+Tap and Hold
+This is information about Tap and Hold on Cooking Pots.
+
+#	Tap	Hold	Type
+1	Tap to cook a quick meal to restore health!	N/A 	Food Cooking Pot
+2	Tap to cook a quick meal that buffs your hero!	N/A	Buff Cooking Pot
+3	Tap to cook spoiled food that poisons enemies!	N/A	Poison Cooking Pot
+All Pots don't have any Hold Attack.
+
+Legendary Weapons
+This is the list of Legendary Pots. Each of them has a name.
+
+#	Name	Type
+1	Master Chef Pot	Food Cooking Pot
+2	Master Chef Buff Pot	Buff Cookng Pot
+3	Master Chef Poison Pot	Poison Cooking Pot

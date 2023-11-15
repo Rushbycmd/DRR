@@ -1,0 +1,19 @@
+Vintage Weapon
+EDIT
+Vintage weapons were part of the old weapon system, which was going on during the beta test. Vintage weapons are tainted red in-game. If you don't already own one of these, than there's no way of getting one anymore.
+
+Vintage Weapons
+These are the weapons that we remember:
+
+#	Weapon Name	Weapon Type
+1	Vintage Ground Pound Hammer	Hammer
+2	Vintage Piercing Throwing Axe	Throwing Weapon
+3	Vintage Fighters Throwing Axes	Throwing Weapon
+4	Vintage Bacon Beater	Cleaver
+Q&A Dungeon Rampage Beta
+#	Question	Answer
+1	There's Modifiers?	No, The Modifiers doesn't add yet.
+2	How many Heroes you have?	We have 6 heroes.No Pyromancer and Dragon Knight
+3	Is this awesome?	Maybe, 50-50. We have Piercing Throwings, Healing Cleaver and Ice Bows.But no modifiers.
+4	How's the Shop?	The shop is not limited edition. All weapons are shown in shop.
+5	How's the Training System?	The Training Center is 25 Training Points only. We have 2 Training Points per level up. The maximum level of the hero is 50.

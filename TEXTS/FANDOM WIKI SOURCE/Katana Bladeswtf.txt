@@ -1,0 +1,40 @@
+Katana Blades
+1
+EDIT
+Katanas are the samurai's most powerful and prideful weapons.
+
+
+Contents
+1	Katanas Type
+1.1	Teleport Katana
+1.2	AoE Katana
+1.3	Ground Strike Katana
+2	Tap and Hold 
+3	Legendary Weapons
+Katanas Type
+Teleport Katana
+Light katana. This katana is great for escaping and over run enemies.
+
+
+AD
+
+AoE Katana
+Light katana. This katana is great for hitting or killing enemies in a large area.
+
+Ground Strike Katana
+A katana that use to Strike Ground's And Enemie's Nearby.
+
+Tap and Hold 
+This is information about the "Tap and Hold" in Katanas.
+
+#	Tap	Hold	Katana Type
+1	Tap to execute a high speed combo moving forward at each attack	Charge and release to teleport cuting all enemy in your way	Teleport Katana
+2	Tap to execute a normal speed combo	Charge and release to hit all enemys in a large area around you using the power of your soul.	AoE Katana
+3	Tap to execute slow combo	Charge and release send a line of powerfull strike throught the ground	Ground Strike Katana
+Legendary Weapons
+This is the list for Legendary Katanas. Each weapon has a name.
+
+#	Name	Type
+1	Kusanagi	Teleport Katana
+2	Shichiseiken	Ground Strike Katana
+3	Muramasa	AoE Katana

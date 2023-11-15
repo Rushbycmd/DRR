@@ -1,0 +1,12 @@
+Flying Spears
+EDIT
+There are 3 types of throwing spears.
+Throwing Spear types
+Snare Spear
+Can hit an enemy and drag them towards you, stunned, at the cost of little mana. Charging will result in throwing more spears. If you pierce an enemy, both the first and the second enemy will fly towards you, making the poly throwing (throws extra spears when charged) piercing snare spear is very effective at pulling mass bunches of enemies towards you and following up with a poleaxe smash.
+
+Strike spear
+It throws a single spear like normal throwing weapons, except the strike spear guarantees piercing the first enemy. Charging will result in a triple piercing spear launched whilst charging forward yourself.
+
+Tele Spear
+Upon throwing and striking an object or an enemy, you instantly teleport towards the victim without being hurt by obstacles (spikes) in the middle of your path. Charging will throw a homing spear that seeks out enemies better.

@@ -1,0 +1,108 @@
+Training
+EDIT
+Training can be done to increase certain skills for each class, some of which appear in more than one. You can use them with Training Points. Each time you hero level up, you will give 2 Training Points. When the maximum leveling up is 100, The maximum number of points is 200.
+
+
+Contents
+1	What are Training Points?
+2	Choose Wisely!
+3	Heroes
+3.1	Berserker
+3.2	Ranger
+3.3	Sorcerer
+3.4	Battle Chef
+3.5	Vampire Hunter
+3.6	Ghost Samurai
+3.7	Pyromancer
+3.8	Dragon Knight
+4	See also
+What are Training Points?
+Training Points are points that are give to hero's stats when a time to level up. These points will give your hero more powerful, more offensive and more defensive. You can use them with adding the hero's list on Training. It can improve on the attack, magic, speed and more.
+
+The number of points that you have every time you hero to level up is:
+
+Level	Num. of Training Points
+1	90
+2	4
+3	6
+4	8
+5	10
+6	12
+7	14
+8	16
+9	18
+10	20
+22	99
+50	100
+100	200
+Max.Training Points 	200
+Max. Level	100
+Dungeon_Rampage_on_Facebook_-_Training_Points_All_Heroes_-_17.04.2013
+Dungeon Rampage on Facebook - Training Points All Heroes - 17.04.2013
+
+How to use the Training Points
+
+Choose Wisely!
+When you accidentally add the wrong list of your selected hero, it never back again. You can retrain the hero's stats for 20 Gems (1.20 USD). When you a beta-player (a player start to play while beta-version) you can automatically retrain all of your heroes.
+
+Heroes
+This list is the Hero's list that you can train for your selected heroes. This list also decide to add fairly.
+
+Berserker
+Melee Power +3 melee base damage/ point
+Fury
+Max Health +5 hp/ point
+Max Mana +1 mana/ point
+To read more about the stats of  Berserker, Click this: http://www.dungeonrampage.wikia.com/wiki/Berserker#Builds
+
+Ranger
+Shooting Power +3 shooting base damage/ point
+Shooting Speed +1% faster shooting/ point
+Movement Speed +1% faster movement/ point
+Max Mana +1 mana/ point
+To read more about the stats of Ranger, Click this: http://www.dungeonrampage.wikia.com/wiki/Ranger#Builds
+
+Sorcerer
+Magic Power +3 magic base damage/ point (affects healing as well)
+Mana Regen
+Magic Defense -1 magic damage/ point (50% damage reduce is the limit)
+Max Mana +1 mana/ point
+To read more about the stats of Sorcerer, Click this: http://www.dungeonrampage.wikia.com/wiki/Sorcerer#Builds
+
+Battle Chef
+Melee Power +3 melee base damage/ point
+Cooking
+Max Health +5 hp/ point
+Mana Regen
+To read more about the stats of Battle Chef, Click this: http://www.dungeonrampage.wikia.com/wiki/Battle_Chef#Builds
+
+Vampire Hunter
+Shooting Power +3 shooting base damage/ point
+Mana regen
+Shooting Defense -1 shooting damage/ point (50% damage reduce is limit)
+Max Health +5 hp/ point
+To read more about the stats of Vampire Hunter, Click this: http://www.dungeonrampage.wikia.com/wiki/Vampire_Hunter#Builds
+
+Ghost Samurai
+Melee Power +3 melee base damage
+Spirit Energy
+Movement Speed +1% faster movement/ point
+Max Health +5 hp/ point
+To read more about the stats of Ghost Samurai, Click this:http://www.dungeonrampage.wikia.com/wiki/Ghost_Samurai#Builds
+
+Pyromancer
+Burning Damage +3 burn base damage/ point
+Fire Burst Damage +3 base damage/ point
+Mana Upgrade
+Max Health +2 hp/ point
+To read more about the stats of Pyromancer, Click this:http://www.dungeonrampage.wikia.com/wiki/Pyromancer#Builds
+
+Dragon Knight
+Melee Power +4 melee base damage/ point
+Super Speed
+Max Health +555 hp/ point
+Max Mana +1 mana/ point
+To read more about the stats of Dragon Knight, Click this: http://www.dungeonrampage.wikia.com/wiki/Dragon_Knight#Builds
+
+Remember, No spams! Ivan Clemente (talk) 10:39, May 23, 2013 (UTC)
+Not exactly sure how much the rest adds/point, and shooting speed could be wrong :I ... Oshadow0

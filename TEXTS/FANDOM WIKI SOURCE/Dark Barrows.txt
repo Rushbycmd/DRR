@@ -1,0 +1,64 @@
+Melee
+Skeleton Swordsman
+DR SKELE SWORD
+Skeleton Swordsman
+
+Fragile as he is, a smash or 2 will turn him back into a pile of bones.
+
+weak	normal	resist
+melee	range	magic
+Swamp Troll
+DR TROLL BIG PURPLE
+Swamp Troll
+
+A giant troll with a stone club that poisons you with his farts.
+
+weak	normal	resist
+n/a	all	n/a
+Brown Troll
+DR BARROW TROLL
+Brown Troll
+
+An ugly troll with a stone club.
+
+weak	normal	resist
+n/a	all	n/a
+
+Ranged
+Skeleton Archer
+DR SKELE ARCHER
+Skeleton Archer
+
+An undead archer risen from the death seeking for revenge.
+
+weak	normal	resist
+melee	range	magic
+Specter
+DR GHOST
+Specter
+
+Shoots plasma balls at you from a distance.
+
+weak	normal	resist
+magic	range	melee
+Fire Specter
+DR GHOST FIRE
+Fire Specter
+
+Shoots fire plasma balls at you from a distance.
+
+weak	normal	resist
+magic	range	melee
+Bosses
+Vampire Hunter
+A mob you have to be aware of. Comes up and can dungeon buster and use onions to confuse you. It can shoot arrows, but just remember that it's weak against range. My ranger was able to shoot the vampire hunter over and over again and all it did was run back and forth. Just be aware of the berserker, which is allied with the vampire hunter.
+
+Special
+Berserker
+DR ZERKER
+Berserker
+
+A 200 pound killing machine.
+
+weak	normal	resist
+magic	range	melee

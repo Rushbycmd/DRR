@@ -1,0 +1,28 @@
+Frostgaard
+3
+EDIT
+Frostgaard is a well-known map among archers for prioritizing speed over strength.
+
+The Black Viking
+This viking is dangerous and carries a hammer. Best to use range.
+
+DR VIKING BLACK
+The Black Viking (in-game)
+
+
+
+
+
+Green Bat
+These bats spawn in pairs and aren't particularly dangerous. They drop valuable loot.
+
+DR ICEBAT GREEN
+Green Bat (in-game)
+
+
+
+Purple Bat
+This bat unleashes a barrage of lethal ice balls, decimating many of the rampagers. They drop valuable loot.
+
+DR ICEBAT PURPLE
+Purple Bat (in-game)

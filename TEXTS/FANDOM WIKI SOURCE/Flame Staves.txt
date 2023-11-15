@@ -1,0 +1,13 @@
+Flame Staves
+EDIT
+Flame staves are AoE weapons used to burn enemies in front of you. They have a medium attack range (less then ranged, more then melee). All fire staves have a tap attack, no mana cost and a repeater attack.
+
+There are two different types of them: Wide Flamestaffs and Long Flamestaffs.
+
+
+Staves Types
+Wide Flamestaffs
+Attacks in a close range, wide spread in the direction you aim at. Hold down to attack repeatedly.
+
+Long Flamestaffs
+Attack using a thinner, but longer flame in front of you. Hold down for repeated attacks.

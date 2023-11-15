@@ -1,0 +1,97 @@
+Dragon Knight
+
+he Dragon Knight once led the vanguard of a lost army of Dragon Riders. With her arsenal of spears, poleaxes and dragon artifacts, baddies will have a hard time keeping up!
+Attack
+
+★★★★
+
+Defense
+
+★★
+
+Speed
+
+★★★★
+
+Type
+
+Melee-Range
+
+Cost
+
+1 000 000 Coins (hacked) or buy 150 gems or more.
+Summary
+I, The Dragon Knight, once led the vanguard of a lost army of Dragon Riders. I will use my arsenal of spears and poleaxes to decapitate my enemies. I will use my dragon artifacts to buff my teammates in terms of attack, defense, and walking speed. When there are crowds of enemies, all I have to do is to use my most powerful secret called Dragon Hatchlings, so my four elemental dragons will assist me and kill my enemies. Dinglepus's Baddies are no match for my dragons.
+
+Combat
+Use your stats to focus on melee attack, super speed, and max health.
+
+Following the recommended build at the bottom, a Dragon Knight's high attack speed with her melee weapons will wipe the floor with the mobs. At late game, the mana-consuming combo attacks of the polearm and such will not make a difference, as at 66/75 super speed, the DPS is about the same by then. The Dragon Knight should be played aggressively, almost as the Pyromancer, but unlike the Pyromancer, which charges into the middle with no way out in order to blow up the center of the mob, it is recommended to tackle the edge of the mob and retreat before attacking again. The Dragon Knight's high movement speed (on par with the Ghost Samurai and Ranger) makes it perfect for hit-and-run attacks. While boasting tremendous attack power, especially when using the charge attack of the dashing spear, the Dragon Knight is more fragile than the other melee classes like the Battle Chef and Berserker, although still tougher than most classes like the Sorcerer and Ranger. The dashing spear's charge attack is a devastating 5-hit combo after rushing forward, and it usually kills even minibosses with one charge.
+
+Snare spears are especially effective for ranged attacks, as they draw the enemy to you. I usually blast them with my dragon charm immediately after they have been forcefully gathered around you and stunned, for maximum gain of the buff. The charms work better the more mobs they hit, and I usually favor the charms that provide attack/movement speed.
+
+One noted weakness of this tactic is that the snare spears are suicidal at times, as you draw the enemies to you only to immediately get struck by them if you're not quick enough, or if your charm is on cooldown. Mana is not a concern at all, even with 0/75 mana; I hardly come across the problem of running dry.
+
+Do not be shy to act as a full-time ranged attacker; the Dragon Knight's range attack is just as effective as the melee, sometimes even better.
+
+Playing Styles
+The Dragon Knight can be played in 3 main ways. They are:
+
+Fully Offensive
+Fully Support
+Semi Offensive/ Semi Support
+Fully Offensive
+The Fully Offensive Dragon Knight should be equipped with a Dash Spear in (Z), a Throwing Spear in (X) and a Damage Buff Dragon Charm in (C). This set allows maximum offense and aggression when fighting in advanced Dungeons.
+
+The Poleaxe is the most basic weapon of the available Dragon Knight weapons. They have great attack speed and decent damage, a perfect balance. Poleaxes are used to harass enemies and to take away part of the enemies' health in just a few attacks. Poleaxes can also be used to pick off weak enemies or enemies which have low resistance to melee.
+
+Throwing Spears are to be used at range. They can pick off retreating enemies, and Throwing Spears do a fair amount of damage to enemies that aren't range resistant.
+
+Damage Buff Dragon Charms can be used to boost your teammates, your pets, and yourself with damage. Damage Buffs are great and can be used at any active battle moment, but the most effective time Damage Buffs are to be used is when crowds of enemies surround you and your teammates. Dragon Charms blow away your enemies and give you and your teammates some space for a while. Damage Buff can be used at this time to fight smaller groups of enemies and killing them easier without you taking as much damage as you would in a giant crowd of enemies.
+
+This set should be used if you are advanced and want to play aggressively. This set is great for destroying enemies.
+
+Fully Support
+The Fully Support Dragon Knight should be equipped with a Dash Spear in (Z), a Dragon Charm in (X) and another Dragon Charm in (C). This set is mainly focused on 'supporting' your teammates.
+
+The Poleaxe is necessary as you need to fend for yourself and help your teammates deal damage. It is a great balanced and all-rounder weapon as mentioned previously, with great attack speed and decent damage.
+
+As a Fully Supportive Dragon Knight, you need 2 Dragon Charms to boost your teammates.
+
+Preferably, one Buff has to be a Defense Buff. The Defense Buff should be prioritized over Damage and Speed Buff. It can reduce great amounts of damage and can allow you and your teammates not to fall so easily.
+
+The Second Buff is up to personal choice. Both Damage and Speed Buff make great backup Buffs, but it would be strange to carry 3 Buffs and not have any 'real' weapon for yourself to fight with.
+
+This set should be used if you are advanced and know how and when to support your teammates. This set is great for making you and your teammates last longer in battles.
+
+Semi Offensive/ Semi Support
+The Semi Offensive/ Semi Support Dragon Knight should be equipped with a Dash Spear in (Z), a Snare Spear in (X) and a Speed or Defense Buff in (C). This set should be used by beginners who are inexperienced at using one of the best classes in Dungeon Rampage. Though this load-out may be a starter load-out, it is proven to be the most effective in regular play. With this set you can be both offensive and supportive at the same time.
+
+The Poleaxe is an obvious must, and as mentioned before, it is extremely useful for quick, damaging attacks.
+
+The Snare Spear is used to 'snare' or bring the enemy towards you. This provides a safer option as you can pick off each enemy by pulling 1, 2, or 3 of them towards you. Enemies will become stunned for about 1-2 seconds, and that will give you enough time to finish them. Snare Spears prevent enemies from retreating as the Spear pulls them right back to you.
+
+Dragon Charms should be 'Speed' or 'Defense Buff' as you are a Semi Offensive or a Semi Support, so you also need to help your teammates out in Defense or Speed. Attack Buffs are mainly for piercing through enemies and destroying them, but Defense and Speed Buffs are the Buffs that will make you and your teammates last longer in continuous waves of enemies. Defense Buffs provide enough defense for you and your teammates to fight off a crowd of enemies, and Speed Buffs provide you and your teammates with increased movement ability to retreat quickly or to move around much faster.
+
+This set should be used for beginners, but if used properly or if you have enough experience, it is definitely the most effective set out of the 3.
+
+Builds
+This information about stats of the Dragon Knight:
+
+Melee Power which Increases Melee Damage.                                                                                                    
+​Super Speed which Increase Movement and Attack Speed.                                                                                             
+Max Health which Increases Maximum Health.                                                                                                  
+Max Mana which Increases Maximum Mana.
+The most common and recommended build. It helps you last longer in ultimate rampage:
+
+Melee Power  75/75 (MAXED)
+Super Speed  75/75 (MAXED)
+Max Health 50/75 (BALANCED)
+Max Mana 0/75 (EMPTY)
+Or you can go with this one, if you favor health over speed:
+
+Melee Power 75/75 (MAXED)
+Super Speed 50/75 (BALANCED)
+Max Health 75/75 (MAXED)
+Max Mana 0/75 (EMPTY)
+Both are good, but it's personal preference in the end.

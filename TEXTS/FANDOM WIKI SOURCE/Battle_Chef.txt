@@ -1,0 +1,48 @@
+Battle Chef 
+Description : 
+Soup is SO on! This chef uses only the freshest ingredients...taken straight form the foes he slays! Come and get it! The chef always makes enough food for everyone.
+Attack
+
+★★
+
+Defense
+
+★★★★
+
+Speed
+
+★★★
+
+Type
+
+Support/Melee
+
+Cost
+
+40000 Coins
+
+Summary
+Hello, I am the Battle Chef. I am the backbone of any group. Those who stand with me will last as long as I do. A mighty culinary killer that makes enemies ingredients for my cooking. Before my Meat Cleaver, all are ingredients needed for my cooking! I'll place them into my Pot and cook my allies a meal fit for battle and instantly heals their wounds. Bread, buns, whatever you wish, I'll cook it all without a dish. None will starve while I am around, with my Meateors, I'll leave nothing but hamburgers on the ground. When the enemies don't know about me, I will strike them with my Frying Pan to remember me. I'm too weak to throw Heavy Throwing Weapons, so I use Light Throwing Weapons. My food is something to adore, but will always leave you wanting more, like my manly charm. I am the best food provider in the world. I also have been known for 2 more different skins, I am the Tetsujin chef and the Biker chef.
+
+
+Usable weapon types
+Meat Cleavers
+Cooking Items
+Throwing Weapons
+Frying Pan 
+
+Trivia: The Bacon buff is a buff that increase health regeneration and make the chef and affected party nearly immortal. The bacon buff knife is a vintage weapon.
+
+Combat
+The Battle Chef is primarily a support and tank character. His melee attacks are short range and deal quick (but low) damage to enemies. His great stamina and ability to leave food around him and the party means that players can always disengage combat, grab some food, and head back into the fray. The Chef's two main weapons are Meat Cleavers and Throwing Weapons (although he also uses Pots). The Meat Cleavers are really the Chef's primary weapon. Some cleavers have a charge attack and others give the Bacon Boost enhancement, which increases stamina and mana regen for a short duration. Because the Battle Chef is capable of providing food to the party, Bacon Boost is left without much effect. Throwing Weapons provide a much-needed missile weapon for the Battle Chef, but mana consumption should be considered with each use.
+
+Meateors, the Battle Chef's Dungeon Buster, summons flaming cows which cause AoE damage and create hamburgers on the affected area. The damage output is low, but good enough for clearing weak foes. The main benefit is of course is supplying an abundance of food in the immediate area for the party.
+
+One great tip that players should remember is to not consume food unless they need it. A party of two Berserkers and a Ranger, for example, should allow the Ranger to consume the food since the Ranger can effectively heal both Berserkers at the same time. The Battle Chef helps to keep a constant supply of food available, lifting the competition between sharing food. The Battle Chef is a support hero, not a fighter. Keeping the team alive and full of mana is the best asset a Battle Chef can provide to a party.
+
+Another tip would be to allow the Battle Chef a portion of the food created for mana so that they can continue to make more until all allies are full health. A Chef without mana is a team without food. This applies to both the Battle Chef and party members as well.
+
+Melee Power 75/75 Points(MAXED).
+Cooking 0/75 Points.
+Max Health 75/75 Points (MAXED).
+Mana Regen 50/75 Points.

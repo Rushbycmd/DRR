@@ -1,0 +1,62 @@
+Hunter Traps
+1
+EDIT
+Hunter Traps are mines that can be set in advance, each type of them having different effects. They tend to have a high mana cost, emphasizing the importance of their placement. These traps last for a long duration of time, with Garlic Nukes lasting even longer. While traps are claimed to lack a Charge effect, you can throw them forward by holding the button.
+
+
+Contents
+1	Types of Traps
+1.1	Firebomb
+1.2	Mines
+1.3	Garlic
+2	Tap and Hold
+3	Legendary Weapons
+4	Difference
+Types of Traps
+Firebomb
+This mine creates a patch of fire on the ground, persisting in the ground for a short amount of time and effectively burning any enemies that come in contact with it.
+
+Ash-Maker Mines
+Scorcher Mines
+Napalm Mines
+Everburner Mines
+4685
+48
+blitz crossbows
+
+Mines
+Mine has a one sec timer before primed. The explosion deals damage and knocks all enemies away from blast area.
+
+Goo Trap
+Muck Trap
+Ooze Trap
+Garlic
+Very similar to the Vampire Hunter's Garlic Nukes, though visually less impressive and only one set at a time. Stuns a whole group of enemies when detonated.
+
+Foul Reeker Garlic
+Stink Blast Garlic
+Tap and Hold
+This is information about Tap and Hold on Hunter Traps.
+
+#	Tap	Hold	Type
+1	Tap to drop Firebomb to set enemies on fire!	Hold to throw Firebombs! Hold longer to throw farther!	Firebomb
+2	Tap to drop Mines to Slow enemies	Hold to throw Mines! Hold longer to throw farther!	Mines
+3	Tap to drop Garlic Bomb to Stun enemies	Hold to throw Garlic Mines! Hold longer to throw farther!	Garlic
+
+Legendary Weapons
+This is list of Legendary Traps. Each of them has a name.
+
+#	Name	Type
+1	Napalm Mines	Firebomb
+2	Monster Hotel	Mines
+3	Nasal Buster	Garlic
+4685
+The "Napalm Bombs" in Weapons page is a example of a Legendary Weapon. Please don't report about the name.
+
+Difference
+We have noticed on dungeons that we seen a bomb without a vampire hunter player. These bombs are the enemies.
+
+Your Bomb	Enemies Bomb	Type
+Tiny Spikes	Bigger Spikes	Firebomb
+Big	Small	Mines
+1 Defensive ring (Garlic Nukes)	Single	Garlic
