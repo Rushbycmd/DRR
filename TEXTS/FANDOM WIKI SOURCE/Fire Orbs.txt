@@ -1,0 +1,7 @@
+Fire Orbs
+1
+EDIT
+Fire Orbs are quite similar to runes. Both their tap and charge attack have mana cost and cooldown.
+
+Meteor Orb
+Tap to cast meteor in front of you in a similar way to the Thunderstorm Tome tap attack. Charge to cast 4 meteor that will drop around you in clockwise order stating from left.

@@ -1,0 +1,34 @@
+Axes
+The main weapon of the Berserker. There are different kinds of types; some are fast-paced attacking weapons, while others have a rather slow attack rate. There are even different kinds of charge attacks: a fast-hitting multi-combo attack, a heavy blow, or even an earth-shattering earthquake that swipes away enemies in a straight line.
+Axe Types
+Monster Axe
+This axe has a ability to damage enemies in a line.
+
+Shockwave Axe
+Seismic Axe
+Monster Axe
+This axe has a ability to damage enemies in a line.
+
+Shockwave Axe
+Seismic Axe
+Monster Axe
+This axe has a ability to damage enemies in a line.
+
+Shockwave Axe
+Seismic Axe
+
+Charge and Tap
+This is Charge and Tap List
+
+#	Type	Charge 	Tap
+1	Monster Axe	Charge and release to shatter the ground in a line to damage your enemies	Tap  to execute a slow and powerful combo.
+2	Battle Axe	Charge up and release a powerful strike that cripples enemies.	Tap to execute a quick striking combo while dashing forward.
+3	Fury Axe	Charge up and release to dash forward and carve up your enemies!
+
+Legendary Weapons
+We have 3 Legendary Axes. Each Axe has a name.
+
+#	Name	Type
+1	Odin's Fist	Monster Axe
+2	War Scyte	Battle Axe
+3	Tarbazin	Fury Axe

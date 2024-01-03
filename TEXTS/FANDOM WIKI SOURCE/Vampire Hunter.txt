@@ -1,0 +1,87 @@
+Vampire Hunter
+17
+EDIT
+Vampire Hunter
+DR-VampireHunterCard
+Definitely not daddy's little girl. She will steal your heart...and then drive a stake through it! Setting up traps and playing games of cat-and-mouse are the Vampire Hunter's specialty!
+Attack
+
+★★★★
+
+Defense
+
+★★★
+
+Speed
+
+★★
+
+Type
+
+Range-Melee Damage/Trap Creator
+
+Cost
+
+150000 Coins or 50 Gems ($2 USD)
+
+
+Contents
+1	Summary
+2	Usable Weapon Types
+3	Combat
+4	Builds
+5	Buyer's Notes
+6	TIPS
+7	Gallery
+Summary
+I'm a vixen of the supernatural and of mayhem, but you can all me the Vampire Hunter. If it moves, I can kill it. The answer to hordes is simple: if my Crossbows can't shoot them all, I'll nuke them all with my pride and joy the Garlic Nuke. A good hunter never leaves herself open, and that's what my Traps are for. I'm not ready to use Heavy Throwing Weapons so, I start with Light Throwing Weapons. If my enemies are too many, it's easy to kill them with my Swords. I'm thought to be akin to a Ranger. I'm not only good against vampires but against any foolish creature dumb enough to be in range.
+
+Usable Weapon Types
+Crossbow Weapons
+Sword Weapons
+Hunter Traps
+Light Throwing Weapons
+Combat
+The Vampire Hunter shoots two crossbow bolts in quick succession. Though her attacks deal high  damage per hit, depending on her wepon,her attack speed equates to higher damage over time compared to the Ranger and Berserker. Considering she has a ranged attack, she is a great damage dealer from safe distances. Her crossbows come in three styles/modes: Enemy Seeking, Regular Crossbows, and Poison Crossbows. Early on, the Poison Crossbows are a great choice, but the damage gap between them and Regular Crossbows begins to widen near level 20 and up. The Enemy Seeking Crossbows, while a neat idea and handy in some instances, deal far too little damage to be practical and do not take advantage of the Vampire Hunter's great attack. Players should never use swords or throwing weapons with the Vampire Hunter.
+
+The Vampire Hunter's special equipment includes bombs and mines. The mines do considerable damage and last a few minutes until they dissapear. Her garlic bombs stun enemies on contact, excellent for large bosses and enemies. By using her stun bombs properly, the Vampire Hunter can lure enemies into traps and flee to safety. It is recommended players should carry one garlic bomb and one mine.
+
+Her Dungeon Buster, Garlic Nukes, surrounds her in explosive garlic bombs. These bombs stun enemies on contact and deal considerable damage. It is best to save her dungeon buster when she is surrounded by enemies and likely to die.
+
+One major weakness of the Vampire Hunter is her regeneration. Only her mana recovers at a slight rate; her health hardly recovers at all. Food or players with healing abilities are vital to keeping her alive in the midst of battle. Good Vampire Hunter players should never collect food that they do not need, but should rather return to it when low on health.
+
+Also Vampire Hunter is the best hero in the Ultimate Dungeon.
+
+Builds
+You have four different attributes available to train and only three of them can be maximum:
+
+Shooting Power which increases your Crossbow damage. Adds +3 base DMG/ point
+Mana Regen which increases your mana regeneration.
+Shooting Defense which increases your defense against arrows. -1 range DMG/ point , defense only limits up to 50% of the damage
+Max Health which increases your total health. +5 hp/ point
+The recommended build is and also helps you last longer in ultimate rampage:
+
+Shooting Power 50/75 Points.
+Mana Regen 75/75 Points (MAXED).
+Shooting Defense 0/75 Points.
+Max Health 75/75 Points (MAXED).
+
+Shooting Defense isn't needed as it can be nulled by two things:
+
+1) range defense modifier (legend mods) - reduces range DMG by 50%
+
+2) chef's buff pots - defense soups give a temporary 50% DMG reduce to all attacks
+
+Defense only limits up to 50% of the damage. If you have either one of the 2 things above + shooting defense, the damage received will still be the same as just having the def modifier/soup alone. Might as well spend those points on +150 more damage, of course this is just a suggested build it does not need to be followed.
+
+Buyer's Notes
+Do not attempt to buy Coins with Gems to then buy the Vampire Hunter. It will take roughly 500 Gems ($33.33 USD) to get 150,000 Coins. It's cheaper and easier to buy her with just Gems or to save up your Coins or buy it from the hero pack for 75 gems.
+
+If you don't want to spend money to get her try completing one of the many ways to get FREE GEMS.
+
+There is lots of easier way to get it, you can try prison's keeper, dark barrow (defeat the vampire hunter) and ultimate rampage and they are all boss, if ultimate rampage is hard, try other dungeon to help you. 
+
+To do so, Click the ADD button next to the Gems Counter. Then a buy menu will pop up, don't worry about it. Next, go down to the bottom and you will see "Don't want to buy gems? EARN Gems". Click Earn gems and complete one of the available options that are actually 'free'.
+
+TIPS
+Find a narrow place where enemy spawn, use your mine or fury to block the way so you can shoot the enemy or have time to run away.

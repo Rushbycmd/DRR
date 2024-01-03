@@ -1,0 +1,33 @@
+Frying Pan Weapons
+1
+EDIT
+Frying Pan Weapons have a wide 180-degree swing area, hitting multiple enemies similar to a Berserker's Hammer. The heavier types of frying pans have a higher base damage and a longer cooldown.
+Fry Pan Types
+(Need a Chef with more knowledge of the sub-types of pans to sort this out)
+
+Normal Pan
+Killit SkilletFastpan
+Frying Pan - What's for dinner? Destruction, that's what!
+
+Knockback Pan
+Fast Pan
+Frying Pan
+Heavy Pan
+Battle Pan
+Hot Rod Fryer
+Tap and Hold
+This is information about "Tap and Hold" on Frying Pan Weapons.
+
+#	Tap	Hold	Type
+1	Tap to bust some skulls in front of the Chef!	N/A	Normal Pan
+2	Tap to quickly bust some skulls in front of the Chef!	N/A	Fast Pan
+3	Tap to strongly bust some sakulls in front of the chef!	N/A	Heavy Pan
+All Frying Pan Weapons don't have hold attacks.
+
+Legendary Weapons
+This is information about Legendary Frying Pans. Each of them has a name.
+
+#	Name	Type
+1	Gordon's Pan	Heavy Pan
+2	Frying Pan	Fast Pan
+3	Hot Rod Fryer	Normal Pan

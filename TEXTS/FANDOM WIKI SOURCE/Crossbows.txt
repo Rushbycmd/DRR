@@ -1,0 +1,69 @@
+Crossbow
+EDIT
+A weapon unique to the Vampire Hunter class, offering a ranged playstyle similar to the Ranger, yet unique. Two bolts fire per click of these crossbows.  Each bolt can fire in a different direction making it easier to handle big crowds at range.
+
+48
+Blitz Crossbows
+
+
+
+Contents
+1	Crossbow Types
+1.1	Dual Crossbows
+1.2	Repeating Crossbows
+1.3	Heavy Crossbows
+1.4	Seeker Crossbows
+2	Tap and Charge
+3	Legendary Weapons
+
+AD
+
+Crossbow Types
+Crossbows offer a variety of different Charge attack and speeds.
+
+
+Dual Crossbows
+The crossbow type most Vampire Hunters desire. Mana use escalates similar to a Battle Chef's repeating knife swings. Target one direction. Fast fire speed.
+
+Dart Crossbows
+Rapid Fire Crossbows
+Repeater Crossbows
+​
+
+Repeating Crossbows
+Similar to the Repeater Attack, but in a spread.  Very useful for crowd control. Target 80-180 degrees.
+
+Blast Crossbows
+Burst Crossbows
+Assault Crossbows
+​
+
+Heavy Crossbows
+This crossbow boasts the slowest firing rate, with a charging attack similar to that of Seeker Crossbows.
+
+Cobra Crossbows
+Rogue Crossbows
+Stalker Crossbows
+
+Seeker Crossbows
+Bad tracking around terrain and may target destructibles. Best weapon for crossbows in Ultimate Rampage.
+
+Specter Hunter Crossbows
+Witch Hunter Crossbows
+Zombie Hunter Crossbows (normal fire speed, but low damage)
+Tap and Charge
+This is information about Tap and Charge on Crossbows.
+
+#	Tap	Charge	Type
+1	Tap to shoot crossbow bolts!	Hold to fire faster and faster.	Dual Crossbows
+2	Tap to shoot crossbow bolts!	Hold to in a spread in front of you, faster and faster.	Repeater Crossbows
+3	Tap to shoot crossbow bolts!	Fires 5 Crossbow Bolts in rapid-fire succession while dashing away!  Great for escaping!	Heavy Crossbows
+4	Tap to shoot crossbow bolts!	Fires a burst of 5 Seeker Bolts in a tight duster! Automatically seeks out nearby enemies and chases them!	Seeker Crossbows
+Legendary Weapons
+This is the list of Legendary Crossbows. Each of them has a name.
+
+#	Name	Type
+1	The Needler	Dual Crossbows
+2	Blitz Crossbows	Repeater Crossbows
+3	Apex Crossbows	Seeker Crossbows
+4	Twin Executioners	Heavy Crossbows

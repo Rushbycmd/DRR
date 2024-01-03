@@ -1,0 +1,41 @@
+Magic Scrolls
+1
+EDIT
+DR SCROLL
+Scrolls can be very powerful boosters to use in combat. There are a couple types of different scrolls. They all use up mana, so be sure to have some! Usable weapons for Sorcerer and Ranger.
+
+
+Contents
+1	Healing Scrolls
+2	Speed Scrolls
+3	Snare Scrolls
+4	Legendary Weapons
+Healing Scrolls
+Cast this to heal yourself and all nearby teammates. The significant mana cost and cooldown of the scroll make it useful in a pinch but not as reliable as having a steady food supply.  Depicted as a parchment with a red cross on it. "Tap to cast Healing Aura around you and your allies!".Inscribed are the words, "To be awesome, heal everyone fighting with you."
+
+Ancient Healing Scroll
+Arcane Healing Scroll
+Elder Healing Scroll
+Healing Scroll
+Superior Healing Scroll
+Sage Healing Scroll
+Greater Healing Scroll
+Forbidden Healing Scroll
+Speed Scrolls
+Cast this to give you and any nearby ally a speed boost.  The power determines the effectiveness of the spell. Speed Scrolls will boost both movement speed and attack speed. Depicted as a parchment with a lightning bolt on it.These scrolls are ancient secrets of running fast!.
+
+Sage Speed Scroll
+Superior Speed Boost Scroll
+Forbidden Speed Boost Scroll
+Snare Scrolls
+Shoots a swirl of energy that will hold a single enemy in place. Snare scrolls can get the modifier Piercing so that they affect multiple targets.
+
+Magic Snare Scroll
+Superior Snare Scroll
+Legendary Weapons
+We have 3 Legendary Magic Scrolls. Each of them has a name.
+
+#	Name	Type
+1	Forbidden Healing Scroll	Healing Scroll
+2	Forbidden Speed Boost Scroll	Speed Scroll
+3	Forbidden Snare Scroll	Snare Scroll

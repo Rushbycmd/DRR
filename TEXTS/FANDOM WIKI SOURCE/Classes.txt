@@ -1,0 +1,4 @@
+Currently, there are 8 Classes/Heroes to choose from. Each with their own play-style and effectiveness.
+
+Original Heroes: Vampire Hunter, Battle Chef, Berserker, Ghost Samurai, Ranger and Sorcerer and Pyromancer.
+New Hero: Dragon Knight.

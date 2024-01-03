@@ -1,0 +1,121 @@
+Melee
+Boar
+DR BOAR
+Boar
+
+You better not step between this boar and his furious charge.
+
+weak	normal	resist
+range	magic	melee
+
+
+
+Large Boar
+DR BOAR BIG
+Large Boar
+
+You better not step between this boar and his furious charge.
+
+weak	normal	resist
+range	magic	melee
+
+
+Skeleton Swordsman
+DR SKELE SWORD
+Skeleton Swordsman
+
+Fragile as he is, a smash or 2 will turn him back into a pile of bones.
+
+weak	normal	resist
+melee	range	magic
+
+
+Icetiger
+DR ICETIGER
+Icetiger
+
+A tiger that grew up in the coldest areas of the map.
+
+weak	normal	resist
+range	magic	melee
+
+Green Icetiger
+DR ICETIGER BIG
+Green Icetiger
+
+A giant tiger that inspires his allies by going berserk.
+
+weak	normal	resist
+n/a	magic	melee/range
+
+Ice Troll
+DR ICETROLL
+Ice Troll
+
+Slow, but powerful. He enjoys drilling players around on his drill the most.
+
+weak	normal	resist
+range	melee	magic
+
+Suicide Baby Yeti
+DR BABY YETI BOOM
+Suicide Baby Yeti
+
+This little mutated bugger runs to you at his top speed and explodes! Speed
+
+weak	normal	resist
+all	n/a	n/a
+Snowbeast
+DR KNOCKTROLL
+Snowbeast
+
+He is slow but often appears in large groups. Knockback
+
+weak	normal	resist
+magic	melee	range
+Papa Yeti
+DR PAPA YETI
+Papa Yeti
+
+A strong a giant yeti that can summon his yeti babies in packs.
+
+weak	normal	resist
+magic	n/a	melee/range
+
+
+
+Ranged
+Skeleton Archer
+DR SKELE ARCHER
+Skeleton Archer
+
+An undead archer risen from the death seeking for revenge.
+
+weak	normal	resist
+melee	range	magic
+
+Frost Knight
+DR BLUE KNIGHT
+Frost Knight
+
+A blue knight with a crossbow that shoots arrows at you. 
+
+weak	normal	resist
+n/a	range/magic	melee
+Blue Icebat
+DR ICEBAT L
+Blue Icebat
+
+An agile icebat which appears sometimes in enormous groups!
+
+weak	normal	resist
+range	magic	melee
+
+Green Icebat
+DR ICEBAT GREEN
+Green Icebat
+
+A leader type of icebat, it spawns regularly 2 light colored bats. However, these are not real and die after a short period of time or have been killed by a player.
+
+weak	normal	resist
+range	magic	melee

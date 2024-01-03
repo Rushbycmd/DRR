@@ -1,0 +1,63 @@
+Lightning Magic
+1
+EDIT
+DR MAGIC
+The Sorcerer's Magic.
+
+
+Contents
+1	Magic Type
+1.1	Shockwave Book
+1.2	​Lightning Book
+1.3	​Thunderbolt Book
+2	Tap and Hold
+3	Legendary Weapons
+Magic Type
+Shockwave Book
+Is a attack, but enemy crowd may block your way, you can use that.
+
+Sage Tome Of Shockwave
+Sage Tome Of Shockwave II
+Sage Tome Of Shockwave III
+Sage Tome Of Shockwave IV
+Sage Tome Of Shockwave V
+Sage Tome Of Shockwave VI
+Sage Tome Of Shockwave VII
+​Lightning Book
+Others called it "Most Powerful Book". You can shock enemies 2 enemies for Tap Attack.
+
+Lightning Tome
+Lightning Tome II
+Lightning Tome III
+Lightning Tome IV
+Lightning Tome V
+Lightning Tome VI
+Lightning Tome VII
+​Thunderbolt Book
+Use them with Powerful Lightning from the sky and its Thunder Cloud attack.
+
+Thunderbolt Tome
+Thunderbolt Tome II
+Thunderbolt Tome III
+Thunderbolt Tome IV
+Thunderbolt Tome V
+Thunderbolt Tome VI
+Thunderbolt Tome VII
+All books have Volume I to VII. The most powerful is VII and the Beginner's Book is Lighning Tome.
+
+Tap and Hold
+This is information about ap and Hold on Lighning Magic
+
+#	Tap	Hold	Type
+1	Unleash a giant arc of energy!	N/A	Shockwave Book
+2	Tap to release a bolt of lightning chain! Strikes 2 enemies!	Charge up to release 2 bolt of lighning chain! Strikes 4 enemies!	Lightning Book
+3	Tap to release a bolt from sky! Strikes nearby enemies!	Charge to release a thunder cloud and shock enemies in a line.	Thunderbolt Book
+The Lightning Book must be N/A but we discovered that the charge of lightning book is releasing 2 lightning bolts.
+
+Legendary Weapons
+This is information about Legendary Magic. Each of them has a name.
+
+#	Name	Type
+1	Advanced Principles of 	Shockwave Book
+2	The Bolt-Onomicon	Lighning Book
+3		Thunderbolt Book

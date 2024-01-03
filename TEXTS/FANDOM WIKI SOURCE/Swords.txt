@@ -1,0 +1,57 @@
+Sword Weapons
+EDIT
+DR SWORD
+A flexible weapon used by many classes. Different varieties of swords can be used as a primary weapon or a powerful cooldown strike.  
+
+
+Contents
+1	Sword Types
+1.1	Charging Doubleswing Swords:
+1.2	Long Swords
+1.3	Short Swords:
+1.4	Laser Swords:
+2	Charge and Tap 
+3	Legendary Weapons
+Sword Types
+Charging Doubleswing Swords:
+Light sword. Normal swing speed with a combo hit. Slashes once long and once wide.
+
+Knight's Sword
+Soldier Sword
+Long Swords
+A Sword with a cooldown for the tap swing. Tap hit propels the user backward while swinging in a narrow but long swing. Very similar to the Broadsword's cooldown hit except it propels forward and without a cooldown. If timed right, this move will connect twice.
+
+Broadsword
+Brute Sword
+Pirate Sword
+Short Swords:
+Light sword. Fast swing with combo hit.This move hits a narrow line of enemies twice and slows for about 1 second.
+
+Assassin Sword
+Houndstooth Sword
+Needle Sword
+Laser Swords:
+Light swords with the fastest swing speed of all the swords. Generally depicted as light sabers, these swords are the choice for people who prefer to rapidly slash the upcoming hordes.
+
+Power Saber
+Laser Sword
+Positron Epee
+Beam Sword
+Charge and Tap 
+This are the list of Charge and Tap of the Swords.
+
+Sword Type	Charge	Tap
+Charge Double Swing Sword	Normal swing with a combo hit.	Charge up and release this attack to dash forward and deliver a two-hit slash!
+Long Sword	Tap to dash backwards and unleash a giant forward slash.Great for escaping!	
+Charge up and release to dash forward and unleash a giant slash!  Great for initiating!  
+
+Slowing Stab Sword	Fast Swing with a combo hit	Charge up and release to slash enemies, slowing them.
+Laser Sword	Tap to execute a brazingly fast combo, dashing forward with each attack!	 N/A
+Legendary Weapons
+This is the list of Legendary Swords. Each of them has a name.
+
+#	Name	Type
+1	Annie's Blade	Laser Sword
+2	Claidheamh Mor	Long Sword
+3	Sky Splitter	Charge Double Swing Sword
+4	The Stinger	Short Sword

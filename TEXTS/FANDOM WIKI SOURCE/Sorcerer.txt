@@ -1,0 +1,98 @@
+Sorcerer
+21
+EDIT
+Sorcerer
+px
+Commanding the power of lightning, the Sorcerer fries his foes with blasts of electricity. When his Volt Shield is up, enemies can't reach him without getting a nasty jolt.
+Attack
+
+★★★★★
+
+Defense
+
+★
+
+Speed
+
+★★
+
+Type
+
+Magic Damage Dealer/Support
+
+Cost
+
+100000 Coins ($11.13 USD)
+
+
+Contents
+1	Summary
+2	Usable weapon types
+3	Combat
+4	Tactics
+5	Builds
+6	Buyer's Note
+7	Skins
+8	Gallery
+Summary
+Who wants real magic? So call Sorcerer. I, Sorcerer. I use my powerful Lightning Staves will kill enemies without using mana. I am collecting books called Lightning Magic to shock them. When my Lightning Staves and Lightning Magic doesn't work, I use my most electrifying Volt Shield so no enemies can hit me without a nasty jolt. I also use Magic Scrolls to strengthen my allies. Because I use all my magic stuffs, I know how to command the lightning so, I kill my enemy with my lightning power until they will be roasted.
+
+
+Price: 100 000 coins
+
+Usable weapon types
+Lightning Staves
+Lightning Magic
+Magic Scrolls
+Combat
+Sorcerer is a Glass Cannon type of character, having high damage but pretty much no defense. His main weapons are Lightning Staves and Lightning Magic. Use both of these weapons to your advantage to bring out some interesting combinations. Lightning staves, though slow, can be used to dish out heavy ranged magic attacks. Charging up the staves should not be done a lot since it eats away your mana very quickly. Lightning magic books are probably your most powerful tools of destruction. There are three types of books:
+
+CHAIN LIGHTNING
+THUNDERBOLT
+SHOCKWAVE
+ALL OF THESE ATTACKS SHOCK ENEMIES FOR ABOUT A SECOND, stopping them from attacking and moving.
+
+Shockwave has been considerably nerfed but can be used really effectively if focusing all of the energy waves towards one target. Stay close but not too close to a really powerful enemy (e.g. a minotaur) and blast it with the shockwave tome.
+
+Thunderbolt is extremely powerful but tough to master. It is great for slow moving targets and for dishing out large amounts of damage on a single enemy unit. It causes a lightning strike from about the distance halfway between the edge of the screen and your hero. This lightning strike causes a very small zone of splash damage.
+
+Chain lightning is easy to use but the weakest of the three books. Use it strategically with it's rebounding abilities on miscellaneous objects around the dungeon (e.g. boxes, barrels, broken crates, Dinglepus statues).
+
+Note: If you want to make the most out of the tomes, choose the mana stats over magic atk and def.
+
+The sorcerer can also use scrolls, a very important feature in battle since other attack/carry heroes cannot support and heal other teammates. If you increase the sorcerer's magic attack stat, his healing ability will also increase!
+
+His Dungeon Buster is his Volt Shield which summons for Lightning Orbs that will rotate around you damaging and stunning enemies. Currently you can reapply the Dungeon Buster for even more Lightning Orbs although it most likely will be completely unnecessary. Be sure to note that you shouldn't be ramming into enemies with your dungeon buster since some enemies can still hit you even when shocked by the orbs. Instead, use it as a way of spacing you from your enemies, since you have low health.
+
+Tactics
+When joining a dungeon, make sure your party consists of at least an offensive melee character. Also, you should have a healing scroll in handy since the sorcerer does really well i keeping his teammates in the battle for long periods of time. Use the staves to dish out damage without wasting mana and only use books when there are powerful minibosses, to give allies a chance to flee/counter attack and at crucial times. Remember that you cannot soak up damage and that staying back behind cover is a definite must. You may have seen Pyromancers dash into play unleashing devastating attacks but they can upgrade their health and have a wider assortment of weapons to their disposal, making them flexible in combat. Again to recap, you are a support and a support you SHOULD be. Heal, support and assist. Don't focus on carrying.
+
+EFFECTIVENESS: When going into Dark Barrows dungeons, always focus on the necromancers that always outnumber and flank you. Since you always dish out critical hits on necromancers, you can give your other teammates a chance to survive as they protect you from the melee enemies. You will always be crit on magic monsters, neutral on ranged, low on undead and neutral on soldiers.
+
+Builds
+You have four different attributes available to train and only three of them can be maximum:
+
+Magic Power which increases your damage.
+Mana Regen which gives you mana regeneration.
+Magic Defense which increases your defense against magical attacks.
+Max Mana which increases your total mana.
+The most common and recommended build is  andit helps you last longer in ultimate rampage:
+
+Magic Power 75/75 Points (MAXED).
+Mana Regen 75/75 Points (MAXED).
+Magic Defense 0/75 Points.
+Max Mana 50/75 Points.
+Sorcerer ultimate rampage support builds:
+
+Magic Power 50/75 Points 
+Mana Regen 75/75 Points (MAXED).
+Magic Defense 0/75 Points.
+Max Mana 75/75 Points (MAXED).
+Buyer's Note
+Do not attempt to buy Coins with Gems to then buy the Sorcerer. It will take roughly 167 Gems ($11.13 USD) to get 1,000 Coins. It's cheaper and easier to buy him with just Gems or to save up your Coins.
+
+If you don't want to spend money to get him try completing one of the many ways to get FREE GEMS.
+
+There is lots of easier way to get it, you can try prison's keeper, dark barrow (defeat the vampire hunter) and ultimate rampage and they are all boss, if ultimate rampage is hard, try other dungeon to help you.
+
+To do so, Click the ADD button next to the Gems Counter. Then a buy menu will pop up, don't worry about it. Next, go down to the bottom and you will see "Don't want to buy gems? EARN Gems". Click Earn gems and complete one of the avaliable options that are actually 'free'.

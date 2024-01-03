@@ -1,0 +1,12 @@
+Fire Runes
+1
+EDIT
+Runes are weapons used by those who fused with fire. All runes have a cooldown and mana cost for tap/charge attack.Different Runes
+Firewall Rune
+Tap to conjure a wall of flame in front of you. Charge and release to conjure an extended version of the firewall. Extremely useful at taking down multiple enemies in narrow places, such as the corridors in the arena and prison.
+
+Flamediver Rune
+Tap to morph into a fireball dive into the enemy in front of you. Charge and release to dive in fire frontward, release a well of fire and dive backward, the backward dive can be aimed separately to the forward dive. For the backwards dive, aim at the OPPOSITE direction you want the pyromancer to dash.
+
+Flameburst Rune
+Tap to send a circular blazing shock-wave to burn a nearby enemy. Charge and release to send 3 successive shock-wave, each being larger than the previous one.

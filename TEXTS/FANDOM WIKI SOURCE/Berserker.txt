@@ -1,0 +1,61 @@
+Berserker
+The Berserker likes to resolve conflicts... with his HAMMER! If you're close enough to see the whites of his eyes, it's too late - you're going to need a good doctor.
+Attack
+
+★★
+
+Defense
+
+★★★★
+
+Speed
+
+★★
+
+Type
+
+Melee
+
+Cost
+
+Free
+
+Usable weapon types
+Axes
+Hammers
+Heavy Throwing
+
+Combat
+The Berserker is a walking wreaking ball with the ability to not only dish it out, but to take it as well. Players should note that his high durability makes him an easy tank. A Tank's primary role is to endure hits on behalf of the more vulnerable characters, like the Ranger or Sorcerer, safeguarding their well-being in battle. His tanking ability is only second to that of the Battle Chef. The Berserker has two main weapons: Axes and Hammers. Axes have a lower damage output than Hammers, but are quicker and allows for more hits in a combat. Axes sport a forward cone attack range and every swing moves the Berserker forward, making continued attacks very easy and often deadly for enemies. That being said, Hammers are still vital due to their Crowd Control capabilities and their high damage output. When surrounded by a horde of enemies, the final combo of the Hammer will deal heavy splash damage to all near by enemies. Players shouldn't choose only one of the main weapons, as it will make you less effective in situations. Only using Hammers will often leave you open to attacks because of their slow speed. Only using Axes will make it difficult to deal with huge hordes of enemies that are surrounding you, but a combination of both will allow you to take on any situation effectively.
+
+
+The Berserker's Dungeon Buster sends him into a furious rampage boosting attack and movement speed while giving the player and nearby allies the Awesomer buff for 12 seconds. The circle in which your allies can gain invulnerability is fairly small so stick close to them before using it for maximum effect. Your attack will be replaced by a series of rapid slashes forward, no matter the weapon. But seeing how most enemies will fall from your furious attacks, the only problem will be controlling your direction.
+
+
+Optional equipment for the Berserker are Throwing Weapons. These weapons will allow you to take on enemies from a far and are good for choke points clogged with enemies, since they will allow you to strike them without getting hit very much, if at all. But overall, they won't be very useful seeing how you will deal more damage with your Axes or Hammers and will be using them almost every chance you get.
+
+( The weapon you have in hand seems to make a difference. Hold a weapon with a high power value even if it has a slow attack speed or cool down. The cool down or attack speed of the weapon doesn't seem to matter and the cool down is ignored.)
+Builds
+You have four different attributes available to train and only three of them can be maximum:
+
+
+Melee Power which increases your damage.
+Fury which gives you health regeneration and a boost to your attack speed.
+Max Health which increases your total health.
+Max Mana which increases your total mana.
+The most common and recommended build is this build and can make you last longer in ultimate rampage and the most common training point for some heroes is the health so they can stay alive in the game:
+
+Bandicam 2013-09-11 18-45-51-067
+Berserker training center in Dungeon Rampage.
+
+Melee Power 50/75 Points.
+Fury 75/75 Points (MAXED).
+Max Health 75/75 Points (MAXED).
+Max Mana 0/75 Points.
+The least common and recommended. Use this build ONLY if you use a lot of mana or weapons that you have use a lot of mana, then use this build and maybe it can help you last longer in ultimate rampage:
+
+Melee Power 0/75
+Fury 75/75 (MAXED)
+Max Health 75/75 (MAXED)
+Max Mana 50/75
+This build is NOT a good idea because it will leave you lacking in one of the 3 most useful attributes for the Berserker, which are Melee Power, Fury and Max Health. Max Mana is NOT all that useful because you will be using your Axe, Hammer or Dungeon Busters most of the time. Also, when you require mana you will often find Food within the dungeon, from destructible objects, dropped by enemies or made for you by a Battle Chef.

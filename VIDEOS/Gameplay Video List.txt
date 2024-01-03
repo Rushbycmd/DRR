@@ -1,4 +1,5 @@
 "X" means that the video as been downloaded.
+Unable to upload 14 videos to GitHub due to them being bigger then 100mb. 
 
 https://www.youtube.com/watch?v=n-qPVIzZFWA X
 https://m.youtube.com/watch?v=JUs1ykEWpcY X
@@ -24,62 +25,72 @@ https://www.youtube.com/watch?v=S8VgAByuXqE X
 https://www.youtube.com/watch?v=rJbqqFeSOtE <== Unable to Download / Ytb account closed
 https://www.youtube.com/watch?v=tckpvKYBtqw X
 https://www.youtube.com/watch?v=ym_9waTJfHw X
-https://www.youtube.com/watch?v=vcKgUwXEPLc
-https://www.youtube.com/watch?v=Wwtwgjf9p8I
-https://www.youtube.com/watch?v=Gc1D-CPUyWY
-https://www.youtube.com/watch?v=gXqjObrfExY
-https://www.youtube.com/watch?v=o5hNYd1l3
-https://www.youtube.com/watch?v=TKONJI8g3XkT8
-https://www.youtube.com/watch?v=dz_hES8ERJA
-https://www.youtube.com/watch?v=B_s3XNodH3I
-https://www.youtube.com/watch?v=I6Mg7CXnFgQ
-https://www.youtube.com/watch?v=ehzONe3i6II
-https://www.youtube.com/watch?v=HG91VlODxjg
-https://www.youtube.com/watch?v=fCAiOIawOg0
-https://www.youtube.com/watch?v=WzoiRaazXac
-https://www.youtube.com/watch?v=BkoZHAKr_GY
-https://www.youtube.com/watch?v=dz_hES8ERJA
-https://www.youtube.com/watch?v=xpjwVrqX1hI
-https://www.youtube.com/watch?v=0RffzpmAfn8
-https://www.youtube.com/watch?v=KiR8GqPN1Bw
-https://www.youtube.com/watch?v=fd5CvN0fVP8
-https://www.youtube.com/watch?v=vIfmzJGxX-U
-https://www.youtube.com/watch?v=TDMmHUXaM-4
-https://www.youtube.com/watch?v=eEn5wl1jw8k
-https://www.youtube.com/watch?v=VnZ9jCq3ZfQ
-https://www.youtube.com/watch?v=yEZJ7zjrmTE
-https://www.youtube.com/watch?v=Jq0N7Ni2do8
-https://www.youtube.com/watch?v=6QWyJWfCyg4
-https://www.youtube.com/watch?v=7jnl-VM7CcI
-https://www.youtube.com/watch?v=wnIFP5MduVo
-https://www.youtube.com/watch?v=MZiLWehacws
-https://www.youtube.com/watch?v=9AUIhIZAWS4
-https://www.youtube.com/watch?v=2bNIdCp28EI
-https://www.youtube.com/watch?v=S5fs8d8mRS4
-https://www.youtube.com/watch?v=OCCts_A4654
-https://www.youtube.com/watch?v=gFvTaJQziz4
-https://www.youtube.com/watch?v=upX2FUJOCyA
-https://www.youtube.com/watch?v=ViAXs4QUIUo
-https://www.youtube.com/watch?v=48mNIN4s34s
-https://www.youtube.com/watch?v=1UdpxdnuVcI
-https://www.youtube.com/watch?v=QCjd5AzP7FI
-https://www.youtube.com/watch?v=qaV3zqawIdY
-https://www.youtube.com/watch?v=3GmOHTVZ7tg
-https://www.youtube.com/watch?v=_yMnf7-SQqE
-https://www.youtube.com/watch?v=tZiOk4IsmeM
-https://www.youtube.com/watch?v=BKJzKOrlU7k
-https://www.youtube.com/watch?v=dtzvQ7NV7Lw 
-https://www.youtube.com/watch?v=fl-IXNfp7VA 
-https://www.youtube.com/watch?v=4ZH2t9mYe1Y
-https://www.youtube.com/watch?v=eRsbKKGE3d8
-https://www.youtube.com/watch?v=iKGIipnYxDM
-https://www.youtube.com/watch?v=SHh1GB28vwU
-https://www.youtube.com/watch?v=7lZI4np0ccw
-https://youtu.be/7daBkmLhyKQ?si=abxb2zL5-4eCuaCX
-https://www.youtube.com/watch?v=zjIf7xXTsN4
-https://youtu.be/dbFrxGmYp9s?si=HXJQZh8dxJQmmmKd
-
-
+https://www.youtube.com/watch?v=vcKgUwXEPLc X
+https://www.youtube.com/watch?v=Wwtwgjf9p8I <== Unable to Download / Ytb account closed
+https://www.youtube.com/watch?v=Gc1D-CPUyWY X
+https://www.youtube.com/watch?v=gXqjObrfExY X
+https://www.youtube.com/watch?v=o5hNYd1l3 <== Unable to Download / Video unavailable
+https://www.youtube.com/watch?v=TKONJI8g3XkT8 <== Unable to Download / Dungeon Rampage Remake Video 
+https://www.youtube.com/watch?v=dz_hES8ERJA X
+https://www.youtube.com/watch?v=B_s3XNodH3I X
+https://www.youtube.com/watch?v=I6Mg7CXnFgQ X
+https://www.youtube.com/watch?v=ehzONe3i6II X
+https://www.youtube.com/watch?v=HG91VlODxjg X
+https://www.youtube.com/watch?v=fCAiOIawOg0 X
+https://www.youtube.com/watch?v=WzoiRaazXac X
+https://www.youtube.com/watch?v=BkoZHAKr_GY X
+https://www.youtube.com/watch?v=dz_hES8ERJA X
+https://www.youtube.com/watch?v=xpjwVrqX1hI X
+https://www.youtube.com/watch?v=0RffzpmAfn8 X
+https://www.youtube.com/watch?v=KiR8GqPN1Bw X
+https://www.youtube.com/watch?v=fd5CvN0fVP8 X
+https://www.youtube.com/watch?v=vIfmzJGxX-U X
+https://www.youtube.com/watch?v=TDMmHUXaM-4 X
+https://www.youtube.com/watch?v=eEn5wl1jw8k X
+https://www.youtube.com/watch?v=VnZ9jCq3ZfQ X
+https://www.youtube.com/watch?v=yEZJ7zjrmTE X
+https://www.youtube.com/watch?v=Jq0N7Ni2do8 X
+https://www.youtube.com/watch?v=6QWyJWfCyg4 X
+https://www.youtube.com/watch?v=7jnl-VM7CcI X
+https://www.youtube.com/watch?v=wnIFP5MduVo X
+https://www.youtube.com/watch?v=MZiLWehacws X
+https://www.youtube.com/watch?v=9AUIhIZAWS4 X
+https://www.youtube.com/watch?v=2bNIdCp28EI X
+https://www.youtube.com/watch?v=S5fs8d8mRS4 X
+https://www.youtube.com/watch?v=OCCts_A4654 X
+https://www.youtube.com/watch?v=gFvTaJQziz4 X
+https://www.youtube.com/watch?v=upX2FUJOCyA X
+https://www.youtube.com/watch?v=ViAXs4QUIUo X
+https://www.youtube.com/watch?v=48mNIN4s34s X
+https://www.youtube.com/watch?v=1UdpxdnuVcI X
+https://www.youtube.com/watch?v=QCjd5AzP7FI X
+https://www.youtube.com/watch?v=qaV3zqawIdY X
+https://www.youtube.com/watch?v=3GmOHTVZ7tg X
+https://www.youtube.com/watch?v=_yMnf7-SQqE X
+https://www.youtube.com/watch?v=tZiOk4IsmeM X
+https://www.youtube.com/watch?v=BKJzKOrlU7k X
+https://www.youtube.com/watch?v=dtzvQ7NV7Lw X
+https://www.youtube.com/watch?v=fl-IXNfp7VA X
+https://www.youtube.com/watch?v=4ZH2t9mYe1Y X
+https://www.youtube.com/watch?v=eRsbKKGE3d8 X
+https://www.youtube.com/watch?v=iKGIipnYxDM X
+https://www.youtube.com/watch?v=SHh1GB28vwU X
+https://www.youtube.com/watch?v=7lZI4np0ccw X
+https://youtu.be/7daBkmLhyKQ?si=abxb2zL5-4eCuaCX X
+https://www.youtube.com/watch?v=zjIf7xXTsN4 X
+https://youtu.be/dbFrxGmYp9s?si=HXJQZh8dxJQmmmKd X
+https://www.youtube.com/watch?v=RWyuneWKvXA X
+https://www.youtube.com/watch?v=wPQq3qZL8pk X
+https://www.youtube.com/watch?v=dOtBx9ADWP4 X
+https://www.youtube.com/watch?v=oZrHAkYDEEM X
+https://www.youtube.com/watch?v=Z0nfnMEM0CI X
+https://www.youtube.com/watch?v=PvQBkzX_oTs X
+https://www.youtube.com/watch?v=luRmEm9k_1Q X
+https://www.youtube.com/watch?v=8Sxca_qjV_Q X
+https://www.youtube.com/watch?v=K_a3Ivy4k7Q X
+https://www.youtube.com/watch?v=cJc8ZxTV8GI X
+https://youtu.be/s7Pz-bmGCkM X
+https://www.youtube.com/watch?v=-AiesjwpZNA X
 
 
 

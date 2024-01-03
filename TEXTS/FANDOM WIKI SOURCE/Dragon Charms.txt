@@ -1,0 +1,16 @@
+Dragon Charms
+1
+EDIT
+There are 4 types of Dragon Charm artifacts:
+
+Bleed Charm
+It causes moderate bleeding damage overtime, with a 5% increase for every enemy you hit, capping at around 50%.
+
+Attack Power-up Charm
+With each enemy you strike, your overall damage increases by 10%, reaching a maximum 100% attack bonus, effectively doubling your damage output.
+
+Defense Power-up Charm
+Increases your defense the same way as the attack power up charm.
+
+Speed Charm
+Speed charms increase (max capping at) 50% attack, buster generation and movement speed.

@@ -1,0 +1,12 @@
+Food
+1
+EDIT
+You can find food in dungeons by destroying props and defeating enemies. The Battle Chef is capable of preparing food for the entire party using 'Meateors' to create hamburgers that recover 300+ HP.
+
+
+DR TRAP
+The food is in the bottom right of the image (the red loot).
+
+Food is only thing that cannot be share or party.
+
+All food change in to nacho, chilli and salads because during the event "Flores de Mayo".

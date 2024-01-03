@@ -1,0 +1,38 @@
+Kill Switches
+EDIT
+On this page, we provide details about the Kill Switches added every two floors in the Ultimate Rampage.
+
+NOTE: Every floor the enemies are more stronger! Be careful!
+
+Icon	Name	Description
+No Regen.	No Regen	Hero health and mana regeneration is disabled.
+Poison Gas	Poison Gas	Who farted? Poison damage over time.
+Dangerous Deaths	Dangerous Deaths	Defeated enemies have a chance to drop bombs.
+Busted Buster	Busted Buster	Busted points no longer drop!
+Big Boned	Big Boned	Enemies are immune to knockback.
+Thick Skin	Thick Skin	Projectiles no longer pierce enemies.
+Spectral Harassment	Spectral Harassment	An annoying specter follows you around.
+Slow Immunnity	Slow Immunity	Enemies are immune to slow.
+Chill Immunity	Chill Immunity	Enemies are immune to chill.
+Quick Reflexes	Quick Reflexes	Enemies resist shooting damage.
+Arcane Resistance	Arcane Resistance	Enemies resist magic damage.
+Nemesis	Nemesis	Run.
+Mana Migraine	Mana Migraine	Mana drinks no longer drop!
+Dangerous Props	Dangreous Props	All props in dungeon spawn bombs on death.
+Freeze Bombs	Freeze Bombs	Defeated enemies have a chance to drop freeze bombs.
+Flame Armor	Flame Armor	Enemies resist fire damage.
+Poison Immunity	Poison Immunity	Enemies resist poison damage.
+Beefy Bros	Beefy Bros	Enemies deal 50% extra damage.
+Stun Immunity	Stun Immunity	Enemies are immune to stun.
+Slow Immunity	Slow Immunity	Enemies are immune to slow.
+Cripple Immunity	Cripple Immunity	Enemies are immune to cripple.
+Lightning Bombs	Lightning Bombs	Enemies have a chance when being hit to spawn lightning orbs.
+Scary Speed	Scary Speed	Enemies move twice as fast.
+Shock Immunity	Shock Immunity	Enemies are immune to shock.
+Swift Attacks	Swift Attacks	Enemies attack 50% faster.
+Iron Armor	Iron Armor	Enemies resist melee damage.
+Slippery	Slippery	Enemies are immune to root.
+Health Scare	Health Scare	Food no longer drops!
+Miniboss Mayhem	Miniboss Mayhem	All enemies are now minibosses!
+No crits	No Crits	Heroes no longer deal critical hits.
+Sticky Fett	Sticky Feet	Enemies are immune to pull.

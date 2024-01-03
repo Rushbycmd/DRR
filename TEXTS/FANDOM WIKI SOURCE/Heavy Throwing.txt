@@ -1,0 +1,18 @@
+Heavy Throwing
+EDIT
+The ranged attack option for Berserkers. Heavy throwing weapons add some variety to the Berserker's lineup and can be used when enemies are resistant to melee damage.
+
+DR HEAVY WEAPONS
+Weapon Types
+Boulders
+Throws a huge boulder at a single target. Boulders have a long cooldown and are useful for taking down enemies with massive life bars. Boulders have the biggest power level of all weapons.
+
+Big Rock
+Power Boulder
+Warmonger Boulder
+Boulder
+Boomerangs
+Also called Battlerangs. Allows the Berserker to throw a lighter chakram. Each throw takes a bit of mana, though the attack is combo-able. The Charge attack makes an orbiting chakram that will damage enemies it comes in contact with.
+
+Heavy Boomerang
+Warriors Boomerang

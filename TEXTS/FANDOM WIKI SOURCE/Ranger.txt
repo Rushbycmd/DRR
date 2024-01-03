@@ -1,0 +1,60 @@
+Ranger
+10
+EDIT
+Combat
+The ranger is actually one of the most powerful and most useful heroes of the entire game. If you use her abilities correctly and smartly, you will be able to dish out plenty of damage. She may have low stats, but her flexibility makes her crucial to rushing and going through tough dungeons.
+
+First of all she can wield both ranged and melee weapons. It is most advisable for you to use ranged weapons and never use melee weapons since her stat increase for power only affects ranged attacks. Also, you would never want to get close to your enemies. Her arsenal of bows include one that shoots powerful but slow shots, one that shoots mediocre shots that are not fast nor slow, and finally one that shoots weak but fast arrows.
+
+The most powerful bow can be charged up to release a devastating shot that hits enemies in a straight or diagonal line (8 directions total). It is great for removing chunks off miniboss health bars as well as combo hits. The Tank Shot of the three bows.
+
+The regular bow can be charged to release a narrow spread of arrows. It is pretty normal but works well since it is an all rounder.
+
+The weak/fast bow can be charged to release a wide spread of arrows. It is possibly one of the best bows since it can actually dish out the most damage and has the widest range of the three bows. The weakness is that it is considerably weaker than the other bows and also wastes more mana than the regular bow. If you use it as if it were a melee weapon when fully charged and land all arrows on one target, you will get extreme amounts of damage. Combine that with some modifiers (crit increase) and you will dominate the dungeons.
+
+The ranger can use scrolls which allow her to become a useful support. Though she lacks in max mana and mana regen compared to the sorcerer (an even better support), she makes up for it with speed. She can move way faster than the sorcerer and most of the other classes, making escaping from tough enemies really easy.
+
+Ranger
+px
+Definitely not one of Santa's elves. In fact, don't call her an elf at all. The last guy who tried, she shot full of arrows and the fed him to her pet wolf.
+Attack
+
+★★
+
+Defense
+
+★
+
+Speed
+
+★★★★
+
+Type
+
+High burst range shooting damage dealer/Assault support
+
+Cost
+
+20000 Coins or ($1.33 USD)
+
+Builds
+You have four different attributes available to train and only three of them can be maximum:
+
+Shooting Power: increase in ranged damage
+Shooting Speed: increase in firing speed
+Movement Speed: increase in movement speed
+Max Mana: increase in maximum mana
+The most common and recommended build here helps you last longer in ultimate rampage:
+
+Shooting Power 75/75 Points
+Shooting Speed 75/75 Points
+Movement Speed 0/75 Points.
+Max Mana 50/75  Points 
+This build allows you to have the available mana to heal yourself and your allies. Instead of having 275 points of Mana, you will have 495 points. It also allows you to use a Speed Scroll in order to gain a faster movement for yourself and near by allies. Making this the perfect Support Ranger Build. The other build is:
+
+Ranger ultimate rampage support builds:
+
+Shooting Power 75/75 Points (MAXED OUT).
+Shooting Speed 50/75 Points 
+Movement Speed 25/75 Points.
+Max Mana 50/75 Points.

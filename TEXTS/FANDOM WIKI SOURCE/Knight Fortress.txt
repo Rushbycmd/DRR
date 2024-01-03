@@ -1,0 +1,119 @@
+Melee
+Shirtless Knight
+DR UNDERWARE
+Shirtless Knight
+
+A knight without shirts or pants! Gigantic sword, though.
+
+Weak	Normal	Resistance
+all	n/a	n/a
+Red Knight
+DR KNIGHT RED
+Red knight
+
+A red knight with a sword that will swarm you in groups. 
+
+Weak	Normal	Resistance
+magic	range	melee
+Purple Knight
+DR PURPLE KNIGHT
+Purple knight
+
+A purple knight with a spear that will swarm you in groups. 
+
+Weak	Normal	Resistance
+n/a	Magic	Melee/Ranged
+Giant Knight (Armoured)
+DR GIANT BROWN
+Giant knight (Armoured)
+
+An armoured giant knight with a morningstar. 
+
+Weak	Normal	Resistance
+n/a	Magic	Melee/Ranged
+Green Troll
+DR GREEN TROLL
+Green Troll
+
+An ugly troll with a stone club. He likes to fart.
+
+Weak	Normal	Resistance
+n/a	All	n/a
+Lion
+DR LION
+Lion
+
+A carnivorous lion that wants to bite you in half. He seems attracted to rampagers.
+
+Weak	Normal	Resistance
+n/a	All	n/a
+
+Ranged
+Blue Knight
+DR BLUE KNIGHT
+Blue Knight
+
+A blue knight with a crossbow that shoots arrows at you. 
+
+Weak	Normal	Resistance
+n/a	Ranged/Magic	Melee
+Green Knight
+DR KNIGHT GREEN
+Green Knight
+
+A green knight that throws axes at you. We even have no idea if he has that much muscles to carry one. But we are sure he has six packs of abs.
+
+Weak	Normal	Resistance
+n/a	Ranged/Magic	Melee
+Specter/Mage
+DR GHOST
+Specter/Mage
+
+Shoots plasma balls at you from a distance. Able to teleport but only costs him some time to.
+
+Weak	Normal	Resistance
+Magic	Ranged	Melee
+
+Special mobs
+You can only find some of these mobs in the Champion league, at the knight fortress boss!
+
+Minotaur
+A normal minotaur.
+
+DR MINO
+Minotaur
+
+Weak	Normal	Resistance
+Magic/Ranged	n/a	Melee
+Enraged Minotaur
+An enraged minotaur.
+
+DR MINO RED
+Enraged Minotaur
+
+Weak	Normal	Resistance
+Magic/Range	n/a	Melee
+Enraged Lion
+An enraged lion.
+
+DR RED LION
+Enraged Lion
+
+Weak	Normal	Resistance
+n/a	All	n/a
+Mimic
+A monster/*toad* that disguises himself as a barrel.
+
+DR BARREL
+Mimic
+
+Weak	Normal	Resistance
+Melee	Magic	Ranged
+Berserker (Enemy)
+DR ZERKER
+Berserker (Enemy)
+
+A 500 pound killing machine.
+
+Weak	Normal	Resistance
+Magic	Ranged	Melee

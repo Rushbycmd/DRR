@@ -1,0 +1,19 @@
+Hammers
+EDIT
+
+The high-damage AoE attack of the Berserker. Multiple types of hammers exist.
+
+DR STD HAMMER
+Some create devastation in a straight line, while others damage all nearby mobs in a radius. Each one has a different advantage. The straight-line hammer provides coverage for any mini-bosses, while the area damage hammer is a great tool for keeping mobs at a distance.
+
+Hammer Types
+"Concentrates your might into a powerful smash destroying enemies in close range."  "Tap to smash the ground and so massive damage to close enemies!"
+
+Battle Hammer
+Warhammer
+
+"Seriously, how do I even swing this thing?"  "Tap to release a powerful and slow strike smashing the ground and enemies in a straight line!"
+
+Berserker Hammer
+Buster Hammer
+Explosion Hammer

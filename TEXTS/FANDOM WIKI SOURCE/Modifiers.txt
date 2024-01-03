@@ -1,0 +1,114 @@
+ypes of Modifiers
+4
+EDIT
+Modifiers are special abilities that are attached to weapons when you purchase or open a chest.
+
+DR VINTAGE W
+RARE VINTAGE
+
+Weapons
+CLEVER MEGAVOLT
+
+4685
+
+Contents
+1	Common Weapons
+2	Uncommon Weapons
+3	Rare Weapons
+4	Legendary Weapons
+5	Modifier Names Based on Stars
+Common Weapons
+Common weapons from common chests give zero modifiers. Weapons given out from this chest has no aura color. You can unlock the common chest with 1000 Coins to receive a common weapon.The Vintage Weapons are also common weapons because during the beta-version, there are no modifiers.
+
+Uncommon Weapons
+Uncommon weapons from uncommon chests give one modifier. Weapons given out from this chest will have a blue aura. You can unlock the uncommon chest with 4000 Coins to obtain an uncommon weapon.It has ★ to ★★.
+
+Rare Weapons
+Rare weapons from rare chests gives two modifiers. Weapons given out from this chest will have a gold aura. You can unlock the rare chest with 20000 Coins to obtain a rare weapon.It has ★ to ★★★★
+
+Legendary Weapons
+Legendary Chest, will give two modifiers as well as a character modifier. Weapons given out from this chest will have a purple aura. The character modifier has no star and boost other aspects of your character such as defense or more coins. You can unlock legendary chests with 125000 Coins.It has ★★★★ to ★★★★★
+
+A modifier can have up to five stars to it. The more stars it has, the more effective it is. 
+
+Modifier Names Based on Stars
+#	★	★★	★★★	★★★★	★★★★★	Description
+1	Vicious	Barbaric	Brutal	Nefarious	Monstrous	Hits let you do critical damage.
+2	Critical	Crucial	Decisive	Severe	Dire	Hits chance to give you 100% extra damage.
+3	Piercing	Double-Pircing	Triple-Piercing	Quad-Piercing	Uber-piercing	 Projectile pierces straight through first enemies
+4	Hitback	Knockback	Smackback	Blowback	Blastback	Knock enemies back in inches
+5	Speedy	Fast	Sprightly	Swift	Speedy	Attack faster.
+6	Chargey					Charge attacks quickly.
+7	Noxious	Sickening	Infectious or Poisonous	Poisoning	Toxic	Poison enemies in 8 seconds with high additional damages.
+8	Chaining	Double-Chaining	Triple-Chaining	Quad-Chaining		Projectiles Chain through enemies.
+9	Clever 	Studious 	Clever	Studious	Brilliant	Use less mana
+10	Brute's	Giant's	Orc's	Troll's	Mammoth's	Bigger and Massive hits.
+11	Slowing					On hit, the foe's movement speed decreases for certain amount of time.
+12	Stunning	Dazing	Muddling	Paralyzing		Stun enemies.
+13	Sticky	Hampering	Lagging	Holding 	Suspending	Slow enemy attacks.
+14	Burning	Sizzling	Flaming	Searing	Blazing	Puts enemies on fire.
+15	Cook's	Gastronomist's	Gourmand's	Friturier		Chance to get food when hitting enemies.
+16	Saucier	Grillardin	Saucier		Epicure	Chance to spawn food when killing enemies.
+17		Hasty	Snappy	Sprightly	Enconomic	Attacks cooldown faster.
+18	Sturdy	Beefy	Hearty	Mighty	Unyielding	Deals extra damage
+19	Chilling	Cooling	Freezing	Biting		On hit, the foe give ice conditions.
+20	Pull	Puller	Yank		Trapper	Pulls enemies closer
+21	Zapping	Electrifying	Shocking	Energizing		Shock enemies in any seconds.
+When you know other modifiers that are not written above, see a name placed in a wrong star and wrong descriptions, Please leave a message to Ivan Clemente.
+
+Remember:No spams!   Ivan Clemente (talk) 09:43, May 16, 2013 (UTC)
+
+
+
+
+
+
+Ultimate Rampage Modifiers
+DR-UR-Map
+Ultimate Rampage also have modifiers every 2 floors. Every time you go in every other floor, a modifiers is added, with up to four at once. This will further better the enemies making the floor more challenging.
+
+#	Prize	Modifier Count
+2	Item box +900 Coins	1
+4	Royal Item Box +3600 Coins	2
+7	Rare Chest +28800 Coins	3
+10	Legendary Chest + 230400 Coins	4
+Ultimate	Rampage	Modifier List
+Name of Modifier	Type	Description
+Busted Buster	Special	All Dungeon Buster Stars are no longer to exist
+Nemesis	Unit	Run!
+Spectral Harassment	Unit	An annoying specter follows you around
+Miniboss Mayhem	Unit	All enemies are now minibosses
+Lightning Orbs	Enemy's Special	Enemies have a chance when being hit to spawn lightning orbs
+Poison Gas	Special	Who farted? Poison damage over time
+Beefy Bros.	Enemy's Special	Enemies deal 50% damage
+Swift Attacks	Enemy's Special	Enemies attack 50% faster
+No CRITS	Special	Heroes no longer deal critical hits
+Scary Speed	Special	Enemies move twice as fast
+Dangerous Props	Special	All props in dungeon spawn bombs on death
+Freeze Bombs	Enemy's Special	
+Defeated enemies have a chance to drop freeze bombs
+
+Dangerous Deaths	Enemy's Special	Defeated enemies have a chance to drop deadly bombs
+Iron Armor	Enemy's Special	All enemies resist melee damage
+Quick Reflexes	Enemy's Special	All enemies resist shooting damage
+Arcane Resistance	Enemy's Special	All enemies resist magic damage
+Health Scare	Special	Food no longer drops!
+Mana Migraine	Special	Mana Drinks no longer drops
+Thick Skin	Immunity	Projectiles no longer pierce enemies
+Sticky Feet	Immunity	Enemies are immune to pull
+Chill Immunity	Immunity	Enemies are immune to chill
+Poison Immunity	Immunity	Enemies are immune to poison damage
+Stun Immunity	Immunity	Enemies are immune to stun
+Slow Immunity	Immunity	Enemies are immune to slow
+Shock Immunity	Immunity	Enemies are immune to shock
+Cripple Immunity	Immunity	Enemies are immune to cripple
+Slow Immunity	Immunity	Enemies are immune to slow
+Flame Armor	Immunity	Enemies are immune to flame
+
+Type Name List
+
+#	Type Name	Description
+1	Immunity	The enemy have resistance.Each modifier you have, it has a immunity except for 3rd modifier at legend weapons and Bigger and massive hits modifier.You must change your weapon to change the modifier.
+2	Special	The dungeon's special.You must change anything when dangerous props.Use throwing weapons, ranged weapons to break the props and use chat to give attention player too.Healing Scroll and fast going gate is the only way to prevent the Poison Gas.
+3	Enemy's Special	The enemy's special modifier.When enemy hit or defeated, you must run before the bomb or orb came to you.Always use throwing weapons or ranged weapons.	
+4	Unit	The enemies' worse special.Use Throwing Weapons, Seeker Crossbows or Ranged Weapons also use stuff with dash and boost scrools. If a hero don't have?.....RUN!

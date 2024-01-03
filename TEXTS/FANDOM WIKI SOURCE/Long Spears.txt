@@ -1,0 +1,11 @@
+Long Spears
+EDIT
+They are 2 types of melee spears
+
+Charging Spear
+This spear attacks at a narrow angle, randomly jabbing at your direct front or around 35 degrees to the left and right. Charging it up will result in you charging forward while spearing madly at a wide angle in front of you.
+
+Storm Spear
+Storm spears are fast attack spears. They have the same base attack and damage as charging spears. When holding down the attack button, the storm spear will continue to attack rapidly, draining your mana while pulverizing the enemies in front of you. It is similar to how a vampire hunter uses its repeater crossbow charge attack. The attack degrees of the spear are exactly the same as charging spears.
+
+Categories

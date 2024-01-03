@@ -1,0 +1,84 @@
+Dungeon Busters
+3
+EDIT
+The Dungeon Buster is the character's special move, and it requires Dungeon Buster Stars to perform.
+Heroes
+
+A Dungeon Buster is a powerful move unique to each heroes:
+
+Berserker
+Berserk: The Berserker goes on a Rampage! Also, the Berserker and nearby allies become Awesomer for 12 seconds.
+
+Ranger
+Arrowstorm: The Ranger fires 3 piercing arrows at your enemies! Each arrow wave can be aimed separately.
+
+Sorcerer
+Volt Shield: Summons 4 lightning balls to form a barrier around the Sorcerer, frying all nearby enemies.
+
+Battle Chef
+Meateors: Falling cows rain from the sky, damaging foes and spawning Hamburger food items.
+
+Vampire Hunter
+Garlic Nukes: The Vampire Hunter scatters 6 Garlic Nuke traps around her, forming a deadly defensive ring.
+
+Ghost Samurai
+Iron Legion: Summons 3 Armor Clones to fight for you! Each Armor Clone lasts for 30 seconds.
+
+Pyromancer
+Flame Vortex: Pyromancer is consumed by a flame demon.Pulls in enemies, explodes and then drops some meteors on their heads!
+
+Dragon Knight
+Dragon Hatchlings: Summons 4 elemental dragons to fight by your side! Each dragon lasts for 30 seconds.
+
+Enemies
+When your heroes have also enemies!.Enemies don't have any Stars to perform.They use cooldown instead of collecting stars.
+
+Non-Boss
+DR ICETIGER BIG
+Green Icetiger
+Berseck:A giant tiger that inspires his ally's by going berserk.
+
+weak	normal	resist
+range	melee	magic
+
+DR ZERKER
+Berserker
+Berseck:A 200 pound killing machine.
+
+weak	normal	resist
+magic	range	melee
+
+DR PAPA YETI
+Papa Yeti
+Baby Summon Attack:A strong a giant yeti that can summon his yeti babies in packs.
+
+weak	normal	resist
+magic	n/a	melee & range
+
+DR ICEBAT PURPLE
+Icebat Purple
+Iceball Attack:This icebat is just as big as his cousin the Green icebat. He teleports any player in his range at point blanc and the unleashes a series of deadly iceballs.
+
+weak	normal	resist
+range	magic	melee
+
+Bosses
+DR ICEDRAGON
+Ice Breath Attack, Tail Smash & Icicle Pierce Attack:His icy breath freezes you. His tail smashes you against walls. Icicles piercing you in half. This dragon is one to be recognized
+
+weak	normal	resist
+n/a	n/a	all
+
+DR ICETROLL
+Drill Attack:Slow but powerful. He enjoys drilling players around on his drill the most.
+
+weak	normal	resist
+range	melee	magic
+Did you know?
+Pyro in Pyromancer means "Fire".
+Papa Yeti afraid of bunnies!
+Golem hates getting wet!
+Meateors can come from meteors just change "mete" to "meat".
+To defeat bosses, attack him on back to prevent you giving damages.
+The hardest boss is Ice Dragon.
+You need players to defeat the Ice Dragon.Use your best weapon before battling the dungeons especially the bosses.

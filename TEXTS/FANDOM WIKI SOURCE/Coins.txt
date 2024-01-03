@@ -1,0 +1,30 @@
+Coins are the most basic form of currency in Dungeon Rampage. They have been mistakenly called Gold, mainly because they are Gold Coins.
+
+Type of Coins
+Coins come out in different appearances. Here is what the styles look like and how much money the represent.
+
+Coin Name
+
+Amount
+
+Photo
+
+1 coin	1	DR SINGLE COIN
+5 coins	5	DR 5 COINS
+Coin Bag	10	DR COINBAG
+Gold Bar	50	DR BAR
+Triple Gold Bar	100	DR TRIPLEBARS
+How Coins Show?
+You will find a near endless amount of them within dungeons by breaking a large assortment of destructible objects.
+
+You can also gain Coins by selling Weapons, Potions and other items from your Storage/Inventory or you can use Double Coin Booster & Quad Coin Booster for extra coins.
+
+But the best and most entertaining way to get Coins is by killing enemies, and just getting all the way to Ultimate Rampage where you well get large quantities of coins at a time. Quite often it is also the most effective way to gain Coins.
+
+Some rumors claim that you can receive Coin bonuses at the Victory Screen after completing a dungeon; based on the number of enemy kills. But this has yet to be confirmed.
+
+Why Are Other Coins Abandoned?
+No, If you are thinking the coins are abandoned, they're used in traps to lure you.
+
+DR TRAP
+Coins also a good item to use in traps. When you get the coins, waves of enemies will spawn or go out of their tunnel to attack you and your teammates. Tunnels are usually located in corners.

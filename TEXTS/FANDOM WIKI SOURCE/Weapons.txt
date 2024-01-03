@@ -1,0 +1,213 @@
+Weapons
+2
+EDIT
+Weapon
+Weapons are a type of loot found in chests. They are necessary to complete dungeons as well as damage enemies in your way.
+
+
+Contents
+1	Weapon Tiers
+2	Weapon Modifiers
+2.1	How Many Modifiers Do Each Weapon Tier Have?
+2.2	What types of modifiers are there?
+3	Sections of the Weapon Icon
+4	Modifiers
+5	Legendary Modifiers
+Weapon Tiers
+Vintage Weapons
+Common Weapons
+Uncommon Weapons
+Rare Weapons
+Legendary Weapons
+Weapon Modifiers
+The modifiers in weapons are randomly generated, and all Weapon Modifiers have stars. The more stars a specific modifier has, the more efficacious the effect will be.
+
+How Many Modifiers Do Each Weapon Tier Have?
+1. Common weapons have no modifiers.
+
+2. Uncommon weapons have one modifier.
+
+3. Rare weapons have two modifiers.
+
+4. Legendary weapons have two modifiers and one character modifier.
+
+Remember: The third (3rd) modifier of the legendary weapons/stuffs don't have stars because it is an additional buff to the character.
+
+What types of modifiers are there?
+All the types of modifiers are in Types of Modifiers List.
+
+Sections of the Weapon Icon
+All weapons have sections to describe itself and its function.
+
+Weapons
+1. Weapon Name (all weapons have names and are color coded based on rarity): "Clever Megavolt Caster Staff"
+
+2. Icon of the Weapon (all weapons have icons)
+
+3. Level Requirements (all weapons also level requirements. If your weapon is red shaded, you have not reached the level required to use it): "Level: 51"
+
+4. Tap & Hold Buttons (NOT ALL weapons have both Tap & Hold icon depending on your type of weapon)
+
+5. Modifiers (some weapons may have modifiers, some may not have any. Modifiers help you kill enemies easily and attack more efficiently): "Mana Less ★"
+
+Modifiers
+Sturdy/Beefy/Hearty/Mighty/Unyielding
+
+Deals 10/20/30/40/50% extra damage!
+
+Stunning/Dazing/Muddling/Paralyzing/Devastating
+
+Stun enemies for 1/1.5/2/3/4 sec!
+
+Slowing/Stalling/Lagging/Abating/Impeding
+
+Slow enemies for 2/3/4/5/6 sec!
+
+Binding/Hampering/Hindering/Restraining/Muzzling
+
+Slow enemy attacks for 2/3/4/5/6 sec!
+
+Sticky/Stopping/Rooting/Holding/Suspending
+
+Stop enemies from moving for 2/3/4/5/6 sec!
+
+Hitback/Knockback/Smackback/Blowback/Blastback
+
+Knock enemies back 50/100/150/200/250 inches!
+
+Grabber/Puller/Yanker/Snarer/Trapper
+
+Pull enemies 100/150/200/250/300 inches close!
+
+can be found now
+
+Cooling/Chilling/Numbing/Biting/Freezing
+
+Slow enemies movement and attacks for 2/3/4/5/6 sec!
+
+Burning/Sizzling/Flaming/Searing/Blazing
+
+Set enemies on fire for five seconds! Deals 5/7.5/10/12.5/15% weapon damage!
+
+Note: Only for Pyromancer, Chef, Vampire hunter weapons
+
+Zapping/Electrifying/Shocking/Energizing/Blasting
+
+Stop enemies from moving or attacking for 0.5/1/1.5/2/2.5 sec!
+
+Note: only for sorcerer weapons and poison cooking pot
+
+Noxious/Sickening/Infectious/Poisoning/Toxic
+
+Poison enemies for 8 seconds! Deals 1/2/3/4/5% weapon damage and duration stacks!
+
+Critical/Crucial/Decisive/Severe/Dire
+
+10/12.5/15/20/25% chance to deal 100% extra damage! Stacks with Vicious!
+
+Vicious/Barbaric/Brutal/Nefarious/Monstrous
+
+Adds 5% chance to crit crits now deal 200/250/300/350/400% bonus damage! Stacks with Critical!
+
+Chaining/Double-Chaining/Triple-Chaining/Quad-Chaining/Uber-Chaining
+
+Projectile pierces through first enemy seeks another! / Projectile chains twice/three/four/five times!
+
+Note: is intended for all weapons, but currently only available to sorcerer
+
+Piercing/Double-Piercing/Triple-Piercing/Quad-Piercing/Uber-Piercing
+
+Projectile pierces straight through first enemy and can hit another! / Projectile can pierce straight through first two/three/four/five enemies!
+
+Note: Only for range weapons (Bows and whatnot)
+
+Multi New mod
+
+ Throws an extra one/two/three/four/five shots
+
+Speedy/Quick/Sprightly/Swift/Speedy
+
+Attack 10/20/30/40/50% faster!
+
+Clever/Studious/Brilliant/Studious/Brilliant
+
+Uses 10/20/30/45/60% less mana!
+
+Note: Only on Mana consuming weapons
+
+Brute’s/Giant’s/Orc’s/Troll’s/Mammoth’s
+
+Attacks are 15/20/25/30/35% bigger!
+
+Note: Only on AoE (Area of Effect) weapons
+
+Snappy/Hasty/Snappy/Sprightly/Ergonomic Attacks cool down 10/20/30/45/60% faster!
+
+Note: Only on weapons that have cooldown
+
+Saucier/Grillardin/Friturier/Boucher/Sous
+
+3/4/5/6/7% chance to spawn food when hitting enemies!
+
+Note: Only for Chef weapons
+
+Cook’s/Chef’s/Gastronomist’s/Gourmand’s/Epicure’s
+
+5/10/15/20/25% chance to get better food when killing enemies!
+
+Note: Only for Chef weapons
+
+Chargey/Hurried/Spry/Rapid/Hyper
+
+Charge attacks charge 10/20/30/40/50% faster!
+
+Note: Only for weapons that have charge attacks
+
+Legendary Modifiers
+Stamina
+
+Increases player health by 10 + Weapon Level * 0.9
+
+Aptitude
+
+Increases player mana by 10 + Weapon Level * 0.4
+
+Acceleration
+
+Increases move speed by 10%
+
+Beast Master
+
+Increases pet health by 10 + Weapon Level * 0.9
+
+Animal Fury
+
+Increases pet damage by 20 + Weapon Level * 1.8
+
+Admiral’s Luck
+
+Decreases damage taken by traps by 25%
+
+Buster Gen
+
+Gain 1 Buster Point per enemy killed
+
+Brain Trust
+
+Increases experience dropped from enemies by 5%
+
+Midas Touch
+
+Increases gold dropped from enemies by 5%
+
+Barrier
+
+Increases Melee Defense by 50% (does not stack)
+
+Cover
+
+Increases Ranged Defense by 50% (does not stack)
+
+Comprehend
+
+Increases Magic Defense by 50% (does not stack)

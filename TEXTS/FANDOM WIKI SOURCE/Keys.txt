@@ -1,0 +1,42 @@
+Keys and Chests
+The Keys is used to open Chests, in the game are 4 different types of keys:
+
+Common Key.
+Uncommon Key.
+Rare Key.
+Legendary Key.
+The Item Boxes don't have keys.
+
+Common Key
+Common Key
+Common Chest
+Common Chest
+Uncommon Key
+Uncommon Key
+Uncommon Chest
+Uncommon Chest
+Rare Key
+Rare Key
+Rare Chest
+Rare Chest
+Legendary Key
+Legendary Key
+Legendary Chest
+Legendary Chest
+
+Keys Costs
+Key Name	Key	Cost (Coins)	Cost (Gems)
+Common Key	DR-CommonKey	1000Gold 500%	5 Gem 500%
+Uncommon Key	DR-UncommonKey	4000 Gold 500%	20 Gem 500%
+Rare Key	DR RARE KEY SM	20000 Gold 500%	60 Gem 500%
+Legendary Key	DR LEGEND KEY SM	125000 Gold 500%	150 Gem 500%
+Old Key System
+DR-OldGateKeyTimer
+There used to be a restriction stopping you from playing as much as you could or wanted. You were required to have Keys in order to advance to the next dungeon. If you ran out of keys for the day you would have to wait. After a period of time you would've been given another key to continue your Dungeon Rampage.
+
+These Keys had nothing to do with opening Chests but Gates instead.
+
+Gate Key
+Gate Key
+Gate
+Gate

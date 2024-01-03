@@ -1,0 +1,45 @@
+At the Tavern, you're able to select any characters you have recruited and see the cost to recruit new heroes. Here, the most important information regarding your hero is displayed, such as: Hero description, Likes & Dislikes, Attack/Defense/Speed Ratings, Usable Weapon Types, Level, Experience and Skins.
+
+Naturally, you can purchase Heroes and Skins in either the Tavern or Shop.
+
+
+
+Shop
+Shop
+Shop with Sale and New banners
+
+This will be the most useful vendor you have ever seen. From this menu you can explore the Featured Items & Sales, buy that Hero you've been longing to recruit, buy a new Style/Skin to add a twist to an old favorite, browse the ever changing Weapon Selection, Pick up Revival Items & Boosters for those difficult dungeons or buy a companion for added fun.
+
+Note: You always get 10% of the item's value when sold.
+
+Running low on coins? No problem! You can purchase more with Gems.
+
+
+Training
+DR-Training
+Here you can improve the stats of your heroes. Select any one of the four following attributes:
+
+Melee/Shooting/Magic Damage - Increases Hero Damage for standard attacks.
+
+Hero Secondary Attribute - Increases a unique secondary depending on the hero. Fury/Shooting Speed/Mana Regen/Cooking/Melee Power/Spirit Energy.
+
+Defensive Attribute - Increases the overall survival of the hero. Max Health/Movement Speed/Magic Defense/Shooting Defense.
+
+Offensive Support Attribute - Increases the overall offensiveness capabilities of the hero. Max Mana/Mana Regen/Max Health.
+
+You will gain a total of 200 Training Stat Points. 
+
+Storage
+Storage
+Storage
+
+Also known as Inventory, this Storage area is home to all your fine treasures you have collected during your journey.
+
+You will find your Weapons, Power-Ups, Pets and Stuff located inside. From this menu you're able to equip any of your heroes with your available weapons or switch weapons between heroes, equip Power-Ups, change your selected Pet and even activate time based boosters (i.e Coin Booster and XP Booster).
+
+Unlike the shop, here you can select items in your Storage/Inventory and sell them for Coins.
+
+You will start off with a basic 15 weapon slots and can use Gems to increase the available slots. You can only have 120 slots maximum.
+
+15 Slots	30 Slots	45 Slots
+20 Gems	32 Gems	45 Gems

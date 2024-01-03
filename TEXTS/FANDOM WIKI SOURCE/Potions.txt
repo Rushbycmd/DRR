@@ -1,0 +1,102 @@
+Potions
+1
+EDIT
+DR-AllBoosters
+Potions are consumable items that expire upon use. They can stack up to 99. They have their own tab in the Inventory/Storage.
+
+They come in a number of different types with different effects. Note: Boosters only effect a single run. If the dungeon is only 1 Floor and you rush through it, it is still consumed. They same can be said if it has 3 Floors.
+
+
+
+Contents
+1	Health Bombs
+2	Minor Experience Boosters
+3	Double Experience Boosters
+4	Attack Power Up
+5	Mana Boosters
+6	Move Speed-Up
+7	Gallery
+Health Bombs
+DR-ClassicHealthBombs
+Health Bombs
+
+The power of a Bomb with the restoring effects of a Health Potion. A winning combination!
+
+These handy little items will revive you back to full health and damage all near by enemies. They will effectively give you 5 seconds of invulnerbility so you can get your revenge on those who struck you down.
+
+There seems to be no limit on how many you can use in a single dungeon.
+
+The only other way to avoid Defeat is to be revived by an ally or use a Health Bomb.
+
+These come in different available amounts:
+
+5 Health Bombs for 10 Gems
+5 Health Bombs for 10 Gems
+10 Health Bombs for 18 Gems
+10 Health Bombs for 18 Gems
+20 Health Bombs for 30 Gems
+20 Health Bombs for 30 Gems
+You can also gain Health Bombs from Chests.
+
+
+Minor Experience Boosters
+DR-ClassicExpBoosters
+Minor Experience Boosters
+
+Increases your experience gained by 10% for the next dungeon.
+
+Any friend can Gift a Minor Exp Booster to you. Just make sure you send one back!
+
+DR-MinorBoosterGift
+The 10% effect is only applied at the Victory Screen and does not increase the experience gained within the dungeon. To quote that item's description: "Awarded at the end of the Dungeon".
+
+Double Experience Boosters
+These are simply the best and one of the most sotafter Boosters in the game. Although maximum level characters no longer require these. The bonus experience effect carries over to the Victory Screen and also increases the dungeon's completion experience.
+
+These come in different available amounts:
+
+10 2x Exp Boosters for 7 Gems
+10 2x Exp Boosters for 7 Gems
+30 2x Exp Boosters for 14 Gems
+30 2x Exp Boosters for 14 Gems
+50 2x Exp Boosters for 20 Gems
+50 2x Exp Boosters for 20 Gems
+
+Attack Power Up
+Increases damage dealt by 100% for 30 second.These are useful for every character.The maximum equip is 9.
+
+Save
+Bandicam 2013-09-11 18-45-51-067
+Download (1)
+Mana Boosters
+DR-ClassicManaBooster
+Mana Booster Potion
+
+Increases your maximum mana by 20% for the next dungeon.
+
+These make for a great deal of extra mana for Heroes like the Sorcerer, Ghost Samurai or even the Battle Chef. But for characters with not so high mana pools, the effect will be minor.
+
+These come in different available amounts:
+
+10 Mana Boosters for 15 Gems
+10 Mana Boosters for 15 Gems
+30 Mana Boosters for 35 Gems
+30 Mana Boosters for 35 Gems
+Move Speed-Up
+Increases your movement speed by 50% for 30 second. This does NOT effect attack speed. The overall effect of Speed Boosters are lackluster at best. Unless you're playing Heroes with an already fairly high base speed, such as the Ghost Samurai or Ranger the additional 50% will be minor.
+
+Maximum Equip Limit Is : 9
+
+Gallery
+Every Regular Booster
+Every Regular Booster
+Mana Booster
+Mana Booster
+Speed Booster
+Speed Booster
+Double Exp Booster
+Double Exp Booster
+Newer Power Booster
+Newer Power Booster
+Original Power Booster
+Original Power Booster

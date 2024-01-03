@@ -1,0 +1,27 @@
+Katana Blade
+EDIT
+Katana are the samurai's most powerful and prideful weapons.
+
+Katana Types
+Light Katana
+
+"Bewilder enemies with your speed with this light katana"
+
+Charge attack: dash forward and quickly release a 4 combo thrust at enemies. 
+
+Kusanagi
+Regular Katana
+A powerful katana specializing in wide swings to bring down multiple enemies at once. 
+
+Charge attack: a powerful AOE attack strike nearby enemies. Charge quote: Charge and release to strike nearby enemies with the powerful of your soul.
+
+Muramasa
+
+AD
+
+Heavy Katana
+A heavy katana that strikes with incredible damage, but requires intense focus to master.
+
+Charge attack: strike forward and release a shockwave (projectile) that continuously strike enemies (sometimes it not). Charge quote: Charge and release to strike the ground and release a powerful shockwave forward!
+
+Samurai Edge

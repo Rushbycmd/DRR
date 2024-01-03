@@ -1,0 +1,31 @@
+ems
+30
+VIEW SOURCE
+DR-Gems Gems are Dungeon Rampage's premium currency, and allows for a quicker game progression by allowing purchasing different items. Gems are sold in the following packs:
+
+Gems	Total	Price (in USD)
+1500 + 500	2000	$100
+750 + 200	900	$50
+300 + 60	360	$20
+150 + 20	170	$10
+75 + 5	80	$5
+30	30	$2
+11333996 1572992969628531 6037678557033294555 o
+Picture of a player getting Gems from a chest.
+
+Gems serve as the secondary currency in Dungeon Rampage, and they hold the highest value. They can be used to buy pets, items, chests, keys, and heroes.
+
+Gems can be obtained by opening chests, whose quantity depends on the type of chest that is opened.
+
+Gems per chest
+Chest	Chance	Amount
+Common (brown)	10%	25-50
+Uncommon (blue)	20%	75-100
+Rare (yellow)	30%	125-150
+Legendary (purple)		175-200
+Item Box		5
+Royal Item Box		10
+Gems can also be obtained by going to the gems shop and clicking the "EARN Gems" button at the bottom of the shop. It will display several options for the player to choose to get gems. Many of these free offers include downloading apps to your smart phone or registering at a web site. Along with these methods, it was possible to get 45 Gems by connecting a Credit Card or a PayPal account to your Facebook account.
+
+Dungeon Bucks
+Before Gems were implemented, there was another premium currency called Dungeon Bucks. They had the same function as both Facebook Credits and Gems have, and they were replaced for Gems in January 4th, 2012.

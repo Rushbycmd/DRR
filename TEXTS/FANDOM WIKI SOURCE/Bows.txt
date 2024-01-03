@@ -1,0 +1,38 @@
+Bow Weapons
+4
+EDIT
+DR BOW
+Bows offers a wide range of varying powers and speeds to mix up their play-style.
+
+
+Bow Types
+Long Bow
+
+Slow firing speed, but big damage.  The Charge attack on these bows does ludicrous amounts of damage to compensate for the slow firing speed. "Hold to draw your bow string and increase damage!"
+
+Gaia Bow
+Watchers Bow
+Arcane Bow
+Regular Bow
+Normal firing speed with average damage. The Charge attack on these bows fires a narrow spread good for pinpoint attacks.
+
+Blaster Bow
+Power Bow
+Buster Bow
+Elemental Bow
+Wyvern Bow
+Short Bow
+Super fast firing speed, but low damage.  The Charge attack on these bows shoots wide with many arrows to strike whole rooms with ease.
+
+Hawk Bow
+Owl Bow
+Griffin Bow
+Chrystal Bow
+Dragon Bow
+Legendary Weapons
+There are 3 Legendary Bow Weapons. Each of them has a name.
+
+#	Name	Type	Charging Attack
+1	Artemis' Bow	Long Bow	Scaling Attack
+2	True Shot	Regular Bow	Narrow Angle Spread
+3	Onyx Bow	Short Bow	Wide Angle Spread
